@@ -1,0 +1,33 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Test and build
+    env:
+      MDBOOK_VERSION: 0.4.15
+      MDBOOK_LINKCHECK_VERSION: 0.7.6
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Install mdbook and mdbook-linkcheck
+        run: |
+          curl -LsSf "https://github.com/rust-lang/mdBook/releases/download/vMDBOOKVERSION/mdbook−v{MDBOOK_VERSION}-x86_64-unknown-linux-gnu.tar.gz" | tar xzf -
+          curl -LsSf "https://github.com/Michael-F-Bryan/mdbook-linkcheck/releases/download/v${MDBOOK_LINKCHECK_VERSION}/mdbook-linkcheck.x86_64-unknown-linux-gnu.zip" > mdbook-linkcheck.zip
+          unzip -n mdbook-linkcheck.zip
+          chmod +x mdbook-linkcheck
+          echo (pwd)>>GITHUB_PATH
+      - run: mdbook build
+      - uses: peaceiris/actions-gh-pages@v3
+        if: github.event_name == 'push'
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./book/html
+          enable_jekyll: false
