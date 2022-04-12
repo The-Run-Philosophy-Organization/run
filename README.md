@@ -3,7 +3,7 @@
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例
 
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
-[![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.me/RunOutForLife)
+[![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 
 
 请从阅读 [润学纲领](润学纲领) 开始
