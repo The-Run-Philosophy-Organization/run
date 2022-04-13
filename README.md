@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 
 
-请从阅读 [润学纲领](润学纲领) 开始
+请从阅读 [润学纲领](%E6%B6%A6%E5%AD%A6%E7%BA%B2%E9%A2%86.md) 开始
 
 或者查看 [润学感悟](润学感悟)。
 
