@@ -8,4 +8,4 @@
 
 - 华科光电飞跃计划 [华科光电飞跃计划](https://hust-feiyue.github.io/2020_feiyue.pdf)
 
-- 浙江大学飞跃计划 [浙江大学飞跃手册](http://ee.zju.edu.cn/_s575/51847/list.psp)
+- 浙江大学电气学院飞跃计划 [浙江大学电气学院飞跃手册](http://ee.zju.edu.cn/_s575/51847/list.psp)
