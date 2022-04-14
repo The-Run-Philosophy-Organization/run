@@ -5,11 +5,12 @@
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 
-本日更新日志：
+## 本日更新日志：
 
-[飞跃手册](润学方法论/飞跃手册/README.md)
+- [飞跃手册](润学方法论/飞跃手册/README.md)
+- [没抽到H1B怎么办](润学方法论/各国选择/美国/没抽到H1B怎么办.md)
 
-本github repo的大纲：
+## 本github repo的大纲：
 
 请从阅读 [润学纲领](润学纲领.md) 开始
 
