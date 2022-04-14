@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 
-## 本日更新日志：
+## 最新更新日志：
 
 - [各个大学飞跃手册](润学方法论/飞跃手册/README.md)
 - [冷锋吴京：如何去美国当程序员](润学实例/计算机/去美国当程序员V2.5.0.md)
