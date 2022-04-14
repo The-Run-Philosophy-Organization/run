@@ -7,3 +7,5 @@
 - 华科EE系飞跃计划 [华科EE系飞跃计划](https://hongyili.net/attaches/%E5%8D%8E%E4%B8%AD%E5%A4%A7%E7%94%B5%E6%B0%94%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C.pdf)
 
 - 华科光电飞跃计划 [华科光电飞跃计划](https://hust-feiyue.github.io/2020_feiyue.pdf)
+
+- 浙江大学飞跃计划 [浙江大学飞跃手册](http://ee.zju.edu.cn/_s575/51847/list.psp)
