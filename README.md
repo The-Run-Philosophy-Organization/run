@@ -7,7 +7,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 
-## 更新日志 （2022-4-14）：
+## 更新日志 
+
+今日（2022-4-14）：
 - [冷锋吴京：一些常见的计算机去美国问题总结](润学实例/计算机/一些常见的计算机去美国问题总结.md)
 - [加拿大各省提名具体要求](润学方法论/各国选择/加拿大/加拿大各省提名具体要求.md)
 - [添加北邮和中科大的飞跃手册](润学方法论/飞跃手册/README.md)
@@ -16,7 +18,7 @@
 - [上海疫情逝者名单](新冠疫情相关/上海疫情逝者名单.md)
 - [硕士秋招SDE找工时间线总结](润学实例/计算机/硕士秋招SDE找工时间线总结.md)
 
-历史更新：
+过往更新：
 - [冷锋吴京：如何去美国当程序员](润学实例/计算机/去美国当程序员V2.5.0.md)
 - [美国如果没抽到H1B怎么办](润学方法论/各国选择/美国/没抽到H1B怎么办.md)
 - [海专精算比我懂更比你懂](张维为陈平曹丰泽等知名言论收集/海专精算比我懂更比你懂.jpg)
