@@ -8,7 +8,9 @@
 
 - 华科光电飞跃计划 [华科光电飞跃计划](https://hust-feiyue.github.io/2020_feiyue.pdf)
 
-- 浙江大学电气学院飞跃计划 [浙江大学电气学院飞跃手册](http://ee.zju.edu.cn/_s575/51847/list.psp)
+- 浙江大学数学系飞跃手册 [浙江大学数学系飞跃手册](http://www.math.zju.edu.cn/_upload/article/files/99/e1/32b8399349af89f05033bf19a32e/4fd486a5-8a4e-47f0-a9c1-9fdba8cae593.pdf)
+
+- 浙江大学光电系飞跃手册 [浙江大学光电系飞跃手册](https://www.scribd.com/document/518260625/17%E7%BA%A7%E5%85%89%E7%94%B5%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C)
 
 - 北京邮电大学飞跃手册 [北京邮电大学飞跃手册](https://github.com/luochang212/BUPT-ICS-Courseware/blob/master/Grade_3/%E5%A4%A7%E4%B8%89%EF%BC%88%E4%B8%8A%EF%BC%89/%E5%8C%97%E9%82%AE%E9%A3%9E%E8%B7%83%E6%89%8B%E5%86%8C.pdf)
 
