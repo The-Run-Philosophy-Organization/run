@@ -61,7 +61,11 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: "在GitHub上编辑此页",
-  footerText: <>本文档使用 CC 4.0 BY-SA 协议</>,
+  footerEditLink: "在 GitHub 上编辑此页",
+  footerText: <>
+    License by <a href='https://creativecommons.org/licenses/by-sa/4.0/'>CC 4.0 BY-SA</a>
+    <br/>
+    This site is powered by <a href="https://www.netlify.com/">Netlify</a>
+  </>,
   unstable_faviconGlyph: "🏃"
 };
