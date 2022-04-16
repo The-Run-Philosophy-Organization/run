@@ -13,6 +13,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 
+## 本站精华
+- [阿里巴巴大牛亲身经历分享：EB1, NIW, O1...如何在国内申请美国绿卡](润学实例/计算机/如何在国内申请美国绿卡.md)
+- [10043润美方法](润学实例/10043学校如何润/10043润美方法.md)
+- [冷锋吴京：一些常见的计算机去美国问题总结（含10043问题）](润学实例/计算机/一些常见的计算机去美国问题总结.md)
+- [冷锋吴京：如何去美国当程序员](润学实例/计算机/去美国当程序员V2.5.0.md)
+- [我为什么要润：基本哲学概念合集](哲学概念)
+
 ## 更新日志 
 
 今日（**2022-4-16**）：
