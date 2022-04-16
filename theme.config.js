@@ -15,16 +15,11 @@ export default {
       <meta name="msapplication-TileColor" content="#ffffff" />
       <meta name="theme-color" content="#ffffff" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta httpEquiv="Content-Language" content="en" />
-      <meta name="description" content="Nextra: the Next.js site builder" />
-      <meta name="og:description" content="Nextra: the Next.js site builder" />
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="twitter:site:domain" content="nextra.vercel.app" />
-      <meta name="twitter:url" content="https://nextra.vercel.app" />
-      <meta name="og:title" content="Nextra: Next.js static site generator" />
-      <meta name="og:image" content="https://nextra.vercel.app/og.png" />
-      <meta name="apple-mobile-web-app-title" content="Nextra" />
+      <meta httpEquiv="Content-Language" content="zh-cn" />
+      <meta name="description" content="润学全球官方指定文档，整理润学宗旨、纲领、理论和各类润之实例。 本文档的核心宗旨，既是在于解决并回答为什么润，润去哪里，怎么润三大问题；并成为新中国人的核心宗教，核心信念。" />
+      <meta name="og:description" content="润学全球官方指定文档，整理润学宗旨、纲领、理论和各类润之实例。 本文档的核心宗旨，既是在于解决并回答为什么润，润去哪里，怎么润三大问题；并成为新中国人的核心宗教，核心信念。" />
+      <meta name="og:title" content="润学" />
+      <meta name="apple-mobile-web-app-title" content="润学" />
       <link
         rel="apple-touch-icon"
         sizes="180x180"
