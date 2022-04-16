@@ -4,9 +4,9 @@ export default {
   titleSuffix: " – Nextra",
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">润学</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next.js Static Site Generator
+        为什么润，润去哪里，怎么润
       </span>
     </>
   ),
@@ -61,7 +61,7 @@ export default {
   prevLinks: true,
   nextLinks: true,
   footer: true,
-  footerEditLink: "Edit this page on GitHub",
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>,
-  unstable_faviconGlyph: "👋"
+  footerEditLink: "在GitHub上编辑此页",
+  footerText: <>本文档使用 CC 4.0 BY-SA 协议</>,
+  unstable_faviconGlyph: "🏃"
 };
