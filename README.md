@@ -15,14 +15,17 @@
 
 ## 更新日志 
 
-今日（2022-4-15）：
+今日（**2022-4-15**）：
+- [更新润学方法论](润学方法论/README.md)
+- [润学感悟之润文解字](润学感悟/润文解字.md)
+- [10043润美方法](润学实例/10043学校如何润/10043润美方法.md)
 - [方舱医院现状](新冠疫情相关/新闻/README.md)
+
+过往更新（不完全版）：
 - [上海疫情逝者名单](新冠疫情相关/上海疫情逝者名单.md)
 - [我为什么要润：基本哲学概念合集](哲学概念)
 - [人口问题相关](人口问题相关)
 - [冷锋吴京：一些常见的计算机去美国问题总结（含10043问题）](润学实例/计算机/一些常见的计算机去美国问题总结.md)
-
-过往更新（不完全版）：
 - [加拿大各省提名具体要求](润学方法论/各国选择/加拿大/加拿大各省提名具体要求.md)
 - [添加北邮和中科大的飞跃手册](润学方法论/飞跃手册/README.md)
 - [芬兰留学移民优缺点](润学方法论/各国选择/西欧北欧/芬兰留学移民优缺点.md)
@@ -53,4 +56,4 @@
 
 ## 协议
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
