@@ -13,7 +13,7 @@
     "commit": "cz"
   },
   "lint-staged": {
-    "./src/**/*.{ts,js,jsx,tsx}": [
+    "./pages/**/*.{ts,js,jsx,tsx}": [
       "yarn lint --fix",
       "yarn format"
     ]
