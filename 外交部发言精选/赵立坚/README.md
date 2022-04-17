@@ -8,3 +8,8 @@
 * 在做外国记者抗疫情期间：生活在中国，你们就偷着乐吧
  ![偷着乐](https://user-images.githubusercontent.com/72449367/163700558-663e6a1f-052a-4e80-91d5-2dcdfb086188.jpeg)
  ![FQRYOs0XMAMU0UZ](https://user-images.githubusercontent.com/72449367/163700430-f8375c4c-3bb6-4059-8efd-ea087fd085c7.jpg)
+
+* 赵立坚用叙利亚照片指美国在阿富汗“一炸一路”，遭原作者打脸 [原文链接](https://chinadigitaltimes.net/chinese/676267.html)
+
+![image-1643364942073](https://user-images.githubusercontent.com/72449367/163700740-7cc5916b-e3bf-4b0d-a139-7e306fe459ca.png)
+[![image-1643395155577](https://user-images.githubusercontent.com/72449367/163700768-8ab8a6d2-c38e-4609-acc2-e3a3a708b436.png)](https://twitter.com/AliHajSuleiman/status/1486751480954732548)
