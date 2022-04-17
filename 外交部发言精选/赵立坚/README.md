@@ -13,3 +13,7 @@
 
 ![image-1643364942073](https://user-images.githubusercontent.com/72449367/163700740-7cc5916b-e3bf-4b0d-a139-7e306fe459ca.png)
 [![image-1643395155577](https://user-images.githubusercontent.com/72449367/163700768-8ab8a6d2-c38e-4609-acc2-e3a3a708b436.png)](https://twitter.com/AliHajSuleiman/status/1486751480954732548)
+
+## ”美国情报就是个笑话“ --赵立坚
+
+![美国情报就是个笑话](美国情报就是个笑话.jpg)
