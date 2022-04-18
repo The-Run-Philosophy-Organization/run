@@ -1,6 +1,6 @@
 # 大的要来了
 
-by lidangzzz
+by [lidangzzz](https://twitter.com/lidangzzz/status/1516177319710400521?s=20&t=AEmnp-VuihbGvbLoDieoNA)
 
 > 作为最近三年长期表达土地财政观察和担忧的砖家，我在这里最后一次重复我的预警：
 > 
