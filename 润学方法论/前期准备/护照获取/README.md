@@ -2,7 +2,9 @@
 
 ## 疫情期间如何获得护照
 
-作者：[贝极星](https://www.zhihu.com/people/gang-tie-59)
+> 作者：[贝极星](https://www.zhihu.com/people/gang-tie-59)
+> 
+> 来源：[现在全国各地护照都不能办理了吗？ - 贝极星的回答 - 知乎](https://www.zhihu.com/question/478792506/answer/2444226493)
 
 润学润学，你也得首先润出去啊。护照办不了，那基本就是锁死润得道路了。
 
