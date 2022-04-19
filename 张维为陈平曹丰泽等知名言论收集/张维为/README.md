@@ -7,3 +7,4 @@
 > 都可以谈，有什么不能谈的。—— 张维为《这就是中国》
 
 ![张维为 都可以谈](张维为_都可以谈.jpg)
+![image](https://github.com/jiayouba233/run/blob/main/%E5%BC%A0%E7%BB%B4%E4%B8%BA%E9%99%88%E5%B9%B3%E6%9B%B9%E4%B8%B0%E6%B3%BD%E7%AD%89%E7%9F%A5%E5%90%8D%E8%A8%80%E8%AE%BA%E6%94%B6%E9%9B%86/%E5%BC%A0%E7%BB%B4%E4%B8%BA/%E5%BC%A0%E7%BB%B4%E4%B8%BA_%E9%83%BD%E5%8F%AF%E4%BB%A5%E8%B0%88.jpg)
