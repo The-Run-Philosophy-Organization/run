@@ -71,4 +71,4 @@
 
 投资有风险，All-in需谨慎。个人只建议用可支配资产来运作美国的投资移民签证。
 
-节选自北美王探长[《人人都是美国人》- 润美实操圣经](https://www.meiguo.run/post/born-american-but-in-the-wrong-place)
+节选自北美王探长[《人人都是美国人》- 润美实操圣经](https://bit.ly/3EuOG7P)
