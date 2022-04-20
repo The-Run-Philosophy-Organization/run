@@ -11,10 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Build the  document
-            git clone https://github.com/The-Run-Philosophy-Organization/run.git
-            node index.js ./Run
-          root_file: |
-            Run.tex
+        with:
+                  git clone https://github.com/The-Run-Philosophy-Organization/run.git
+                  node index.js ./Run
+            root_file: |
+                  Run.tex
       - uses: actions/upload-artifact@v2
         with:
           name: Run.pdf
