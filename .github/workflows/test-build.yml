@@ -1,0 +1,61 @@
+name: Build LaTeX document
+
+on:
+  push:
+  pull_request:
+    types: [opened, reopened]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build the LaTeX document
+        uses: xu-cheng/latex-action@v2
+        with:
+          latexmk_use_xelatex: true
+          latexmk_shell_escape: true
+          args: "-pdf -file-line-error -halt-on-error -interaction=nonstopmode -8bit"
+          extra_system_packages: |
+            unzip
+            wget
+            curl
+            coreutils
+            nodejs
+            npm
+            imagemagick
+            libwebp
+            librsvg
+            git
+            py3-pygments
+            inkscape
+            libxml2
+          pre_compile: |
+            wget -q -O notosans.zip "https://noto-website-2.storage.googleapis.com/pkgs/NotoSans-hinted.zip"
+            wget -q -O notoserif.zip "https://noto-website-2.storage.googleapis.com/pkgs/NotoSerif-hinted.zip"
+            wget -q -O notoserifcjk.zip "https://noto-website-2.storage.googleapis.com/pkgs/NotoSerifCJKsc-hinted.zip"
+            wget -q -O notosanscjk.zip "https://noto-website-2.storage.googleapis.com/pkgs/NotoSansCJKsc-hinted.zip"
+            wget -q -O robotomono.zip "https://fonts.google.com/download?family=Roboto%20Mono"
+            wget -q "http://mirrors.ctan.org/fonts/cm-unicode.zip"
+            unzip -q notosans.zip -d notosans
+            unzip -q notoserif.zip -d notoserif
+            unzip -q notosanscjk.zip -d notosanscjk
+            unzip -q notoserifcjk.zip -d notoserifcjk
+            unzip -q robotomono.zip -d robotomono
+            unzip -q ./cm-unicode.zip
+            cp -r notosans notoserif notosanscjk notoserifcjk robotomono cm-unicode/fonts/otf/* /usr/share/fonts
+            fc-cache
+            cd remark-latex
+            npm i
+            cd ..
+            cd run
+            npm i
+            git clone https://github.com/The-Run-Philosophy-Organization/run.git
+            node index.js ./run
+
+          root_file: |
+            run.tex
+      - uses: actions/upload-artifact@v2
+        with:
+          name: OI-wiki.pdf
+          path: ./run/run.pdf
