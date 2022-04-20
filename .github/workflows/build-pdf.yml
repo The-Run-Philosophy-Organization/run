@@ -1,21 +1,32 @@
+name: Convert PDF to Markdown
+
 on:
   push:
     paths:
-      - 'doc/**'
-
-name: CreatePDFs
+    - '**.md'
 
 jobs:
-  makepdfs:
+  convert_md: 
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v1
-    - uses: mkrakowitzer/actions-makepdfs@master
-      if: github.ref == 'refs/heads/master'
+    # We must checkout the latest version of the code to get a copy of all .md files
+    - name: Checkout Code
+      uses: actions/checkout@v2.0.0
       with:
-        markdown_dir: doc
-        output_dir: tmp
-    - uses: actions/upload-artifact@v1
-      with:
-        name: platform-architecture-docs
-        path: tmp
+        fetch-depth: 1
+    - name: Create .pdfs
+      uses: scottypate/md-to-pdf@v0.1.1
+      env: {
+        # Use this parameter to determine where the generated .pdf(s) will be stored.
+        PDF_DIR: './pdfs'
+      }
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v1.6.1
+      env:
+        # The token is built in to actions. No config required.
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        COMMIT_MESSAGE: Add .pdf files.
+        PULL_REQUEST_TITLE: Add .pdf files.
+        PULL_REQUEST_BRANCH: pdf-add
+        PULL_REQUEST_BODY: :wave: Run.pdf
+        PULL_REQUEST_REVIEWERS: scottypate
