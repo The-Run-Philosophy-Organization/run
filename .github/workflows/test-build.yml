@@ -57,5 +57,5 @@ jobs:
             run.tex
       - uses: actions/upload-artifact@v2
         with:
-          name: OI-wiki.pdf
+          name: run.pdf
           path: ./run/run.pdf
