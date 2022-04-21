@@ -1,4 +1,4 @@
-语出B站《这就是中国》42集，网站：
+语出 B 站《这就是中国》42 集，网站：
 
 [这就是中国第42集-纪录片-高清正版在线观看-bilibili-哔哩哔哩](https://www.bilibili.com/bangumi/play/ep301215)
 
