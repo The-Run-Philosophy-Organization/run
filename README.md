@@ -1,21 +1,23 @@
-# 阶段计划
-
-欢迎大家通过ISSUE或者提交PR的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。谢谢大家一起共筑全世界最大的中文润学文库。
-
-> 提交B站等国内平台的视频链接请移除追踪参数。
-
 # 润学
 
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
 > 本Repo的核心宗旨，即是在于解决并回答[为什么润](哲学概念/为何而润.md)，润去哪里，怎么润三大问题；并成为新中国人的核心宗教，核心信念。
 > 中国人的润将会持续至少100年，直到2122年为止。而本目录，也将会持续100年，直到山无棱、天地合，才敢与润绝。
 
-**迁徙自由，是基本人权；当然了，讨论真理的言论自由也是**
+迁徙自由，是**基本人权**；
+当然了，讨论真理的言论自由也是。
 
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 
+## 阶段计划
+
+欢迎大家通过ISSUE或者提交PR的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。谢谢大家一起共筑全世界最大的中文润学文库。
+
+> 提交B站等国内平台的视频链接请移除追踪参数。
+
 ## 本站精华
+
 - [为何而润](哲学概念/为何而润.md)
 - [阿里巴巴大牛亲身经历分享：EB1, NIW, O1...如何在国内申请美国绿卡](润学实例/计算机/如何在国内申请美国绿卡.md)
 - [阿里巴巴大牛亲身经历分享: 如何寻找适合自己的方案](润学方法论/如何寻找适合自己的方案.md)
@@ -27,15 +29,17 @@
 - [疫情期间护照获取的办法](润学方法论/前期准备/护照获取/README.md)
 - [10043润美方法](润学实例/10043学校如何润/10043润美方法.md)
 
-## 更新日志 
+## 更新日志
 
 今日（**2022-4-22**）：
+
 - [北美王探长：无惧H1B抽签不中的实操圣经 (2022) | H1B没抽中签，如何轻松破解？](润学方法论/各国选择/美国/王探长系列之：H1B没抽中签如何轻松破解.md)
 - [存档：上海"四月无声"简短纪录片](新冠疫情相关/上海_四月无声_简短纪录片.mp4)
 - [润学感悟：上海是预示未来一百年的大河](润学感悟/pdfs/上海是预示未来一百年的大河.pdf)
 - [经济探讨: 外企大量撤资去印度越南会不会造成国人大量失业](经济问题相关/外企大量撤资去印度越南会不会造成国人大量失业.md)
 
 过往更新（不完全版）：
+
 - [经济探讨: 为什么我们的内需没有美国那么旺盛](经济问题相关/为什么我们的内需没有美国那么旺盛.md)
 - [润学伦理与国际主义精神](润学感悟/润学伦理与国际主义精神.md)
 - [润学感悟: 资本主义和共产主义有什么区别](润学感悟/资本主义和共产主义有什么区别.md)
@@ -95,7 +99,7 @@
 
 - 关于**润哪里**，可以移步 [润学方法论/各国选择](润学方法论/各国选择)
 
-    - 美国签证顺序和常见问题：[润学方法论/各国选择/美国](润学方法论/各国选择/美国)
+  - 美国签证顺序和常见问题：[润学方法论/各国选择/美国](润学方法论/各国选择/美国)
 
 - 关于**怎么润**，请参考全球润友自身的经历 [润学实例](润学实例)：
 
@@ -103,8 +107,10 @@
 
 ## 鸣谢
 
-[![](https://opencollective.com/run/contributors.svg?width=890)](https://github.com/The-Run-Philosophy-Organization/run/graphs/contributors)
+[![contributors](https://opencollective.com/run/contributors.svg?width=890)](https://github.com/The-Run-Philosophy-Organization/run/graphs/contributors)
 
 ## 协议
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名 4.0 国际许可协议</a>进行许可。
+[![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+本作品采用[知识共享署名 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
