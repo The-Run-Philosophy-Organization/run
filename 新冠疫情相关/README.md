@@ -1,5 +1,7 @@
 # 目录
  ![image](https://github.com/The-Run-Philosophy-Organization/run/raw/main/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A8%80%E7%B2%BE%E9%80%89/%E8%B5%B5%E7%AB%8B%E5%9D%9A/%E5%81%B7%E7%9D%80%E4%B9%90.jpg)
+[如何评价作家方方](https://www.zhihu.com/question/379203964) [Archive备份](https://archive.ph/https://www.zhihu.com/question/379203964)
+
 [德国人怒拒被带走，和居委会对峙录音的听后感](德国人与居委会的录音听后感.md)
 
 [上海疫情逝者名单](记录在案的次生伤害/上海疫情逝者名单.md)
