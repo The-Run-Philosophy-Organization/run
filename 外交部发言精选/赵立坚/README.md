@@ -7,9 +7,9 @@
 
 ## 赵立坚用叙利亚照片指美国在阿富汗“一炸一路”，遭原作者打脸 [原文链接](https://chinadigitaltimes.net/chinese/676267.html)
 
-![202201260249_what_america_brings_to_afghan_children](./202201260249_what_america_brings_to_afghan_children.png)
+![](美国给阿富汗儿童带来了什么.png)
 
-[![202201260249_what_america_brings_to_afghan_children_response](./202201260249_what_america_brings_to_afghan_children_response.png)](https://twitter.com/AliHajSuleiman/status/1486751480954732548)
+[![](美国给阿富汗儿童带来了什么的回复.png)](https://twitter.com/AliHajSuleiman/status/1486751480954732548)
 
 ## 赵立坚指美国删除乌克兰生物实验室信息  遭BBC记者拆穿 [消息来源](https://www.worldjournal.com/wj/story/121468/6167324?zh-cn)
 
