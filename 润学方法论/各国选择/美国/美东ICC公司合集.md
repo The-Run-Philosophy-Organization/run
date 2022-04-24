@@ -6,4 +6,4 @@
 
 [Marlabs](https://www.marlabs.com/)
 
-[Mercury System](https://www.mrcy.com)
+[Mercury System](https://www.mercurysystemsinc.com)
