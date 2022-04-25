@@ -1,4 +1,4 @@
-作者：北美王探长    [图文版原文(更新中)](https://www.meiguo.run/post/h1b-visa-lottery-not-a-problem)
+> 作者：北美王探长    [图文版原文(更新中)](https://www.meiguo.run/post/h1b-visa-lottery-not-a-problem)
 
 ## 最新H1B中签结果令人绝望
 
@@ -73,4 +73,4 @@ d. 先入籍澳大利亚，然后E-3签证回美国工作。
 
 以上，就是无惧H1B抽签不中的各种主要实操方法提纲！[最新详细攻略链接](https://bit.ly/3xIVygI)花样百出但都合理合法，千万不要自己身份即将到期的时候，只会傻傻的打包回国！
 
-节选自北美王探长[《人人都是美国人》- 润美实操圣经](https://bit.ly/3EuOG7P)
+节选自北美王探长[《人人都是美国人》- 润美实操圣经](https://www.meiguo.run)
