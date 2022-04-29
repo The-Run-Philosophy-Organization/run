@@ -14,4 +14,5 @@
 
 [上海市民陈顺平4月14日去世发生经过](记录在案的次生伤害/上海市民陈顺平4月14日去世发生经过.md)
 
-[上海四月无声简短纪录片](https://www.youtube.com/watch?v=38_thLXNHY8)
+[纪录片](/新冠疫情相关/纪录片)
+* [上海四月无声简短纪录片](https://www.youtube.com/watch?v=38_thLXNHY8)
