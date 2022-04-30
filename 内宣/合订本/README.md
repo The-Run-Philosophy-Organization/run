@@ -13,3 +13,6 @@
 ## 新冠阴谋论
 ![](男子造谣病毒来自美生化实验室被拘.png)
 
+## 中国共产党在1944年的“庄严承诺”
+
+[知乎回答链接](https://www.zhihu.com/question/524178445/answer/2414579443) [Archive备份](https://archive.ph/2a7c5)
