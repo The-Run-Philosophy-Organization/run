@@ -1,8 +1,8 @@
 # 目录
 
 ![image](/外交部发言精选/赵立坚/偷着乐.jpg)
- 
-[如何评价作家方方](https://www.zhihu.com/question/379203964) 
+
+[如何评价作家方方](https://www.zhihu.com/question/379203964)
 
 - [Archive备份](https://archive.ph/https://www.zhihu.com/question/379203964)
 
@@ -18,4 +18,4 @@
 
 [纪录片](/新冠疫情相关/纪录片)
 
-* [上海四月无声简短纪录片](https://www.youtube.com/watch?v=38_thLXNHY8)
+- [上海四月无声简短纪录片](https://www.youtube.com/watch?v=38_thLXNHY8)
