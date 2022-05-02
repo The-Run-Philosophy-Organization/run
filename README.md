@@ -1,3 +1,8 @@
+![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run)
+![MarkDown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)
+![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)
+![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)
+
 # 润学
 
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
@@ -9,6 +14,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
+![twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 
 ## 阶段计划
 
@@ -33,11 +39,12 @@
 
 ## 更新日志
 
-今日（**2022-4-29**）：
-- [润学之润意大利简介](润学方法论/各国选择/意大利/)
-- [底层鼠人逃跑指南](润学方法论/底层鼠人逃跑指南.md)
+今日（**2022-5-1**）：
+- [润学感悟之：理性润，辩证润](润学感悟/理性润，辩证润.md)
 
 过往更新（不完全版）：
+- [润学之润意大利简介](润学方法论/各国选择/意大利/)
+- [底层鼠人逃跑指南](润学方法论/底层鼠人逃跑指南.md)
 - [苏联是如何在意识形态领域自废武功的？](内宣/苏联/苏联是如何在意识形态领域自废武功.md)
 - [为什么中国最近20年发展就跟开了挂一样](润学感悟/为什么中国最近20年发展就跟开了挂一样.md)
 - [如果疫情一直不会结束最终世界会是什么样子的](新冠疫情相关/如果疫情一直不会结束最终世界会是什么样子的/README.md)
