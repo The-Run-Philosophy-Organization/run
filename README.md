@@ -1,6 +1,6 @@
 ![markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)
-![issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)
-![stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)
+[![issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)]()
+[![stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)]()
 
 # 润学
 
