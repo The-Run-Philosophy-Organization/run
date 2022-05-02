@@ -1,3 +1,4 @@
+![markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)
 ![issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)
 ![stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)
 ![twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
