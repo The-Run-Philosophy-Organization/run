@@ -22,7 +22,7 @@
 
 考试，需要出境或者护照号码的考试，是可以办护照的。但是这个方法不稳定，有消息称需要护照号码的考试，有可能办了护照给你扣住。考试本身也可以拒绝。具体考试类型很多。
 
-比如[这些](https://link.zhihu.com/?target=https%3A//www.neea.edu.cn/html1/category/1705/2957-1.htm)
+比如[这些](https://www.neea.edu.cn/html1/category/1705/2957-1.htm)
 
 当然还有很多，需要你们自己去寻找，我感觉我说的很详细了。
 

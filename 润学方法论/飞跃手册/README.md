@@ -16,7 +16,7 @@
 
 - 浙江大学外语学院飞跃手册 [浙江大学外语学院飞跃手册](http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf)
 
-- 北京邮电大学飞跃手册 [北京邮电大学飞跃手册](https://github.com/luochang212/BUPT-ICS-Courseware/blob/master/Grade_3/北邮飞跃手册.pdf)
+- 北京邮电大学飞跃手册 [北京邮电大学飞跃手册](https://github.com/luochang212/BUPT-ICS-Courseware/blob/master/Grade_3/大三（上）/北邮飞跃手册.pdf)
 
 - 中国科学技术大学数学学院飞跃手册 [中国科学技术大学数学学院飞跃手册](http://home.ustc.edu.cn/~hichychen/fly2020.html)
 
