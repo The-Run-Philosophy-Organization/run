@@ -1,5 +1,3 @@
-
-
 # 硕士秋招SDE找工时间线总结
 
 ## 原文链接在此： [原文链接](https://github.com/yiyangiliu/US-MS-CS-Student-Find-A-Job/blob/master/README.md)
@@ -137,7 +135,7 @@
 
 注：详细时间可以参考[此校历](https://web.archive.org/web/20210222015002/https://academics.usc.edu/calendar/academic-calendar-2021-2022/) ，不同学校有不同规定。
 
-经同学提醒，Viteribi graduate student的academic calendar在这里：https://viterbigrad.usc.edu/ 
+经同学提醒，Viteribi graduate student的academic calendar在这里：https://viterbigrad.usc.edu
 ```
 一次实习，一次全职，好像很完美。
 但是这个过程是不完整的，
