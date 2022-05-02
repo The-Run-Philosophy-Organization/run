@@ -14,7 +14,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
-![twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
+[![twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 
 ## 阶段计划
 
@@ -40,6 +40,7 @@
 ## 更新日志
 
 今日（**2022-5-1**）：
+- [决定定居他国且不可能回国是什么样的心态](润学感悟/决定定居他国且不可能回国是什么样的心态.md)
 - [润学感悟之：理性润，辩证润](润学感悟/理性润，辩证润.md)
 
 过往更新（不完全版）：
