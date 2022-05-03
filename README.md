@@ -3,7 +3,6 @@
 [![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/issues)
 [![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
 
-
 # 润学
 
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
