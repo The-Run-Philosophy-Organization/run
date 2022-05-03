@@ -3,6 +3,7 @@
 [![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/issues)
 [![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
 
+
 # 润学
 
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
@@ -40,6 +41,7 @@
 ## 更新日志
 
 今日（**2022-5-2**）：
+- [4月份经济数据比较](经济问题相关/4月份经济数据比较.md)
 - [爱因斯坦为什么不去苏联？](润学感悟/爱因斯坦为什么不去苏联.md)
 - [决定定居他国且不可能回国是什么样的心态](润学感悟/决定定居他国且不可能回国是什么样的心态.md)
 - [润学感悟之：理性润，辩证润](润学感悟/理性润，辩证润.md)
