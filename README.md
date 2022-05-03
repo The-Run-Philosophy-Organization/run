@@ -1,7 +1,7 @@
-![markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)
-[![issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
-[![stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
-
+[![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
+![Markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)
+[![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/issues)
+[![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
 
 # 润学
 
@@ -20,7 +20,7 @@
 
 欢迎大家通过ISSUE或者提交PR的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。感谢大家一起共筑全世界最大的中文润学文库。
 
-> 提交B站等国内平台的视频链接请移除追踪参数。
+> 提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加Archive备份链接。
 
 ## 本站精华
 
