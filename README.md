@@ -1,7 +1,6 @@
-![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run)
 ![MarkDown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)
-![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)
-![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)
+[![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
+[![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
 
 # 润学
 
@@ -62,7 +61,7 @@
 - [小李在荷兰之: 离开北京前往荷兰](润学实例/计算机/小李在荷兰之离开北京前往荷兰.md)
 - [更新了外交部发言精选](外交部发言精选), [新冠疫情相关: 纪录片](新冠疫情相关/纪录片/README.md)
 - [美东ICC公司合集](润学方法论/各国选择/美洲/美国/美东ICC公司合集.md)
-- [北欧文化简介](润学方法论/各国选择/西欧北欧/北欧文化.md), [瑞典生活常用网站](润学方法论/各国选择/西欧北欧/瑞典/瑞典生活常用网站.md)
+- [北欧文化简介](润学方法论/各国选择/西欧北欧/北欧文化.md), [瑞典生活常用网站](润学方法论/各国选择/西欧北欧/瑞典生活常用网站.md)
 - [下午察：如何理解网络流行语“润”?](媒体报道/下午察：如何理解网络流行语“润”.md)
 - [北美王探长：无惧H1B抽签不中的实操圣经 (2022) | H1B没抽中签，如何轻松破解？](润学方法论/各国选择/美洲/美国/王探长系列之：H1B没抽中签如何轻松破解.md)
 - [存档：上海"四月无声"简短纪录片](https://www.youtube.com/watch?v=38_thLXNHY8)
