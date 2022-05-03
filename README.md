@@ -1,7 +1,7 @@
-![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run)
-![MarkDown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)
-![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)
-![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)
+![markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)
+[![issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
+[![stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
+
 
 # 润学
 
