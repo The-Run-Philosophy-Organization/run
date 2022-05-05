@@ -13,7 +13,7 @@
 ## 无人机飞跃黄浦江为癌症患者送救命药
 
 [新闻链接](https://k.sina.com.cn/article_1567403105_5d6cac6104000yn7s.html)
-![img](无人机飞跃黄浦江为癌症患者送救命药-新闻报道截图.jpg)
+![img](无人机飞跃黄浦江为癌症患者送救命药-新闻报道.jpg)
 
 ![img](无人机飞跃黄浦江为癌症患者送救命药-评价截图1.jpg)
 [微信公众号：大江白鹭｜只有脑残才会被感动](https://mp.weixin.qq.com/s/xcUsaGUGzsjssWQxOjsLzA) [CDT备份链接](https://chinadigitaltimes.net/chinese/680683.html)
