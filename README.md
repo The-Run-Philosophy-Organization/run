@@ -1,9 +1,9 @@
+# 润学
+
 [![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
 ![Markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)
 [![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/issues)
 [![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/blob/main/README.md)
-
-# 润学
 
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
 > 本Repo的核心宗旨，即是在于解决并回答[为什么润](哲学概念/为何而润.md)，[润去哪里](润学方法论/各国选择/)，[怎么润](润学实例/)三大问题；并成为新中国人的核心宗教，核心信念。
