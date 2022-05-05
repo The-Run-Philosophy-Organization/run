@@ -10,5 +10,5 @@ jobs:
       - name: markdownlint-cli
         uses: nosborn/github-action-markdown-cli@v3.0.1
         with:
-          files: '**/*.md'
+          max-depth: -1
           config_file: .markdownlint.yaml
