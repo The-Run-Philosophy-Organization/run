@@ -1,6 +1,6 @@
 # China’s young elite are considering moving abroad
 
-> 经济学人
+> 经济学人文章：《中国的年轻精英正在考虑移民润出国》
 >
 > 原文地址 <https://www.economist.com/china/2022/05/05/chinas-young-elite-are-considering-moving-abroad>
 
