@@ -6,7 +6,7 @@
 
 ## 澎湃新闻
 
-[澎湃报道：乌总统：俄军“不可能”完全撤出乌克兰，愿就顿巴斯问题妥协(引用英国天空新闻网的报道)](https://www.thepaper.cn/newsDetail_forward_17337758) [Archive备份](https://web.archive.org/web/20220401150606/https://www.thepaper.cn/newsDetail_forward_17337758)
+[澎湃报道：乌总统：俄军“不可能”完全撤出乌克兰，愿就顿巴斯问题妥协(引用英国天空新闻网的报道)](https://archive.ph/lPPSU)
 
 [英国天空新闻网原文](https://archive.ph/W6Tas)
 
@@ -32,3 +32,4 @@
 ![img](上海疫情新闻造假4.webp)
 ![img](上海疫情新闻造假5.png)
 ![img](上海疫情新闻造假6.png)
+
