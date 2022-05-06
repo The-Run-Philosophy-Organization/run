@@ -6,15 +6,15 @@
 
 Online searches for words related to emigrating have spiked
 
-Late last month China’s central propaganda department 
+Late last month China’s central propaganda department
 announced a new campaign: “The Strong Nation’s
-Rejuvenation Has Me”. The goal of this 
+Rejuvenation Has Me”. The goal of this
 odd-sounding effort is to rally red spirit before
 the Communist Party’s 20th congress later this
 year, when Xi Jinping hopes to secure a third
 term as party chief. But a different kind of
 rejuvenation is trending online, that of
-“run philosophy”, a coded way of talking 
+“run philosophy”, a coded way of talking
 about emigration. Instead of using a
 character that suggests running away
 from China, which would antagonise state censors,
