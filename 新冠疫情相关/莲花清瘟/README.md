@@ -4,8 +4,8 @@
 
 请您欣赏最新出炉的[莲花清瘟胶囊广告](莲花清瘟胶囊.mp4)
 
-[睡前消息对连花清瘟的质疑](https://mp.weixin.qq.com/s/pM8WaU_bgtF3EPR6j45iZg) [Archive备份](https://archive.ph/R8DJu)
- 
+[睡前消息对连花清瘟的质疑](https://archive.ph/R8DJu)
+
 ![对莲花清瘟的质疑](对莲花清瘟的质疑.jpg)
 ![zhihu](长征-提供莲花清瘟.jpg)
 
