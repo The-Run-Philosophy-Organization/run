@@ -5,9 +5,7 @@
 ## 关于Cloudflare
 
 ![Cloudflare 1](Cloudflare有点意思1.jpg)
-
 ![Cloudflare 2](Cloudflare有点意思2.jpg)
-
 ![Cloudflare 3](Cloudflare有点意思3.jpg)
 
 ## 不如匹马懂事
@@ -21,7 +19,6 @@
 ## 郑州水灾事件中无人性发言
 
 ![zhengzhou1](雨衣爸爸1.jpg)
-
 ![zhengzhou2](雨衣爸爸2.jpg)
 
 以及死不认错：
@@ -31,11 +28,7 @@
 ## 一系列反人类言论以及尴尬的狡辩
 
 ![wtf1](沈条英机1.jpg)
-
 ![wtf2](沈条英机2.jpg)
-
 ![wtf3](沈条英机3.jpg)
-
 ![wtf4](沈条英机4.jpg)
-
 ![wtf5](沈条英机5.jpg)
