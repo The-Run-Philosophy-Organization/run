@@ -71,7 +71,7 @@ covid. Yet in China, he laments, memories are short. People will forget about
 the chaos in Shanghai; the government will maintain its strict covid controls.
 Such despair is why some Chinese are looking to run.
 
-**中文版本翻译**
+## 中文版本翻译
 
 （中国国内）与移民相关的在线搜索量激增。
 
