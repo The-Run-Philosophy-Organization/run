@@ -44,7 +44,7 @@
 
 近期新增（**自 2022-5-6 起**）：
 
-- [润雪实例：通过 L1 （计算机）来美帝](https://github.com/The-Run-Philosophy-Organization/run/blob/main/润学实例/计算机/通过L1来美帝.md)
+- [润雪实例：通过 L1 （计算机）来美帝](润学实例/计算机/通过L1来美帝.md)
 - [媒体报道：经济学人报道润学](媒体报道/China_young_elite_are_considering_moving_abroad.md)
 - [润学方法论: 文科或不好找程序员工作的女生如何润美国，更新了婚后绿卡问题](润学方法论/各国选择/美洲/美国/文科女生不好找程序员的工作如何润美国.md)
 
