@@ -147,6 +147,10 @@
 
 [![contributors](https://opencollective.com/run/contributors.svg?width=890)](https://github.com/The-Run-Philosophy-Organization/run/graphs/contributors)
 
+## Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=The-Run-Philosophy-Organization/run&type=Date)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
+
 ## 协议
 
 [![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
