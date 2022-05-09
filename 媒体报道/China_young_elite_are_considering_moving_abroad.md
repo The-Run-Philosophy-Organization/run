@@ -71,6 +71,8 @@ covid. Yet in China, he laments, memories are short. People will forget about
 the chaos in Shanghai; the government will maintain its strict covid controls.
 Such despair is why some Chinese are looking to run.
 
+![Searching for a way out](20220507_CNC149.png)
+
 ## 中文版本翻译
 
 （中国国内）与移民相关的在线搜索量激增。
@@ -98,8 +100,8 @@ Such despair is why some Chinese are looking to run.
 
 中国互联网用户在 GitHub 上众包了一个运行哲学读物的存储库，这是一个开源编码平台，
 在中国是一个罕见的免受审查的避难所。他们在那里讨论为什么要润，润到哪里以及如何润，
-将成功移民到各个国家的故事存档。一篇文章指出，奔跑不是为了寻求快乐或利益，
-而是为了逃离一个朝错误方向加速的国家。 “肯定是被打伤的羊可以逃跑吗？”它问。 “这就是润的真相。”
+将成功移民到各个国家的故事存档。一篇文章指出，润不是为了寻求快乐或利益，
+而是为了逃离一个朝错误方向加速的国家。 “肯定是被打伤的羊可以润吗？”它问。 “这就是润的真相。”
 
 但润说起来容易做起来难。离开中国的航班很少而且价格昂贵。由于过度担心间谍活动，
 美国收紧了对中国学生的签证限制。以防疫的名义，中国也让公民出行更加困难。

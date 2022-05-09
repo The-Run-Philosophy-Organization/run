@@ -23,3 +23,10 @@
 ## 美国至少有50万人遭受现代奴役
 
 ![img](美国至少有50万人遭受现代奴役.jpg)
+
+[微博评论大型翻车现场](https://chinadigitaltimes.net/chinese/667336.html)
+
+## 今天周六你为什么早起？因为劳动法是摆设！
+
+[CDT合集](https://chinadigitaltimes.net/chinese/675875.html)
+
