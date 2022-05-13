@@ -1,4 +1,4 @@
-name: Linter
+name: Links
 
 on: [ push, pull_request ]
 
@@ -6,7 +6,8 @@ jobs:
   links:
     runs-on: ubuntu-latest
     steps:
-     - name: markdown-link-check
-     - uses: gaurav-nelson/github-action-markdown-link-check@1.0.14
-       with:
-           use-verbose-mode: 'yes'
+      - uses: actions/checkout@v3
+      - name: markdown-link-check
+        uses: gaurav-nelson/github-action-markdown-link-check@1.0.14
+        with:
+          use-verbose-mode: 'yes'
