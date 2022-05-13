@@ -1,4 +1,4 @@
-name: Linter
+name: Latex
 
 on: [ push, pull_request ]
 

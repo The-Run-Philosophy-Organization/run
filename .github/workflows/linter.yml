@@ -1,4 +1,4 @@
-name: Latex
+name: Links
 
 on: [ push, pull_request ]
 
