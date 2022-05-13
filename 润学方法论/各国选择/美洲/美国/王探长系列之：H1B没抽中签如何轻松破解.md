@@ -1,4 +1,4 @@
-#  王探长系列之：H1B没抽中签如何轻松破解
+# 王探长系列之：H1B没抽中签如何轻松破解
 
 > 作者：北美王探长    [图文版原文(更新中)](https://www.meiguo.run/post/h1b-visa-lottery-not-a-problem)
 
