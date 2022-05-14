@@ -4,9 +4,9 @@
 
 ![人口统计](imgs/人口统计.jpg)
 
-## 疫情期间强制隔离导致的民愤
+## 我们是最后一代
 
-![民愤](https://pbs.twimg.com/media/FSg_LnsXEAIpud7?format=jpg&name=medium)
+![民愤](imgs/我们是最后一代.jpg)
 
 ## 其他目录
 
