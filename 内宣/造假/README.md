@@ -24,6 +24,8 @@
 
 [WHO原文链接](https://www.who.int/publications/m/item/weekly-epidemiological-update-on-covid-19---12-april-2022)
 
+[OnHERWAY｜央视报道引发争议，那WHO究竟说了什么？](https://mp.weixin.qq.com/s/f9NoMVEtXqQzs2EdO7_a7A) [CDT备份链接](https://chinadigitaltimes.net/chinese/679464.html)
+
 ### 上海疫情新闻
 
 ![img](上海疫情新闻造假1.JPG)
