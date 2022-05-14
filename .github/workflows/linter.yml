@@ -1,4 +1,4 @@
-name: Linter
+name: Links
 
 on: [ push, pull_request ]
 
@@ -10,5 +10,5 @@ jobs:
       - name: markdownlint-cli
         uses: nosborn/github-action-markdown-cli@v3.0.1
         with:
-          files: '**/*.md'
-          config_file: .markdownlint.yaml
+          files: .
+          config_file: .markdownlintcheck.json

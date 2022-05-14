@@ -1,6 +1,6 @@
-上海疫情逝者名单链接：<https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN>
-
 # 记录在案的次生伤害
+
+## [上海疫情逝者名单链接](https://airtable.com/shrQw3CYR9N14a4iw/tblTv0f9KVySJACSN)
 
 ![韦桂国](中国网信证券公司副总裁韦桂国.jpg)
 
