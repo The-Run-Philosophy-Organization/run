@@ -1,4 +1,4 @@
-name: Links
+name: Linter
 
 on: [ push, pull_request ]
 
