@@ -7,7 +7,6 @@
 有人可能会认为可以想办法绕过政策限制，但是很遗憾的是，新加坡政府比你聪明，也比你狠。比如，[新加坡人力部的政策](https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-worker/sector-specific-rules/work-permit-conditions)明确表明，WP持有者未经人力部批准不可以和新加坡人结婚，未经正规结婚手续不可以生孩子。实际上，WP持有者能获得人力部批准结婚的情况少之又少，而如果未婚先孕则会被直接送回国。
 
 > Not marry a Singapore citizen or permanent resident in or outside Singapore without MOM's approval. This applies even after their Work Permits have expired, been cancelled or revoked.
-
 > Not get pregnant or deliver a child in Singapore during the validity of their Work Permit unless they are already married to a Singapore citizen or permanent resident with MOM's approval. This applies even after their Work Permits have expired, been cancelled or revoked.
 
 新加坡是一个好国家吗？是，但是取决于你的身份。在新加坡，公民是婆罗门，PR是刹帝利，EP持有者是吠舍，WP持有者是首陀罗。新加坡开WP的目的在于吸引廉价劳动力；对于东南亚一些国家的居民来说，新加坡WP的工资是很有吸引力的，因此他们愿意去新加坡工作几年回国，并且不在意是不是能留在新加坡。但是我们的目的与此不同，我们的目的是润，因此我建议你不要在一个不能润的项目上浪费宝贵的时间。
