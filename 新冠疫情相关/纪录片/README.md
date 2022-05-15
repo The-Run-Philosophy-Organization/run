@@ -8,6 +8,7 @@
 
 四月之声2.6G高清版下载地址：ed2k://|file|四月之声.mp4|2531785164|7A32449AD9ABE7A1C270E6FEF1CF6A18|/
 
+[![评价上海疫情短片《四月之声》被删除](评价上海疫情短片《四月之声》被删除.jpg)](https://chinadigitaltimes.net/chinese/680104.html)
 [【真理部】全面清理“四月之声”相关视频](https://chinadigitaltimes.net/chinese/680139.html)
 
 ## 再见语言
