@@ -5,7 +5,7 @@
 ![标题](https://m.media-amazon.com/images/I/51PkOQXo5CL._SL500_.jpg)
 
 大家好， 我是Forrest Sheng Bao, a CS professor at Iowa State University. 我們系在美國所有CS系中排名63.
-爲了證明我是真人，請看[這裏](https://www.cs.iastate.edu/fsb) 我的homepage是 [forrestbao.github.io](http://forrestbao.github.io) 你也可以向fsb at iastate dot edu發一封email看看我是不是真的。現在剛開，所以所有東西就全寫在這個readme裏面了.
+爲了證明我是真人，請看 [這裏](https://www.cs.iastate.edu/fsb) 我的homepage是 <http://forrestbao.github.io> 你也可以向 [fsb@iastate.edu](mailto:fsb@iastate.edu) 發一封email看看我是不是真的。現在剛開，所以所有東西就全寫在這個readme裏面了.
 
 **本repo的重點是**：沒錢也能潤美國/加拿大！ 美國/加拿大大學有很多幫教授教學或科研的崗位（分別叫做teaching assistant和research assistant，簡稱TA/RA），RA/TA可以免學費外加每月工資 -- **免費來美國讀大學（本科）/碩士班/博士班!** 對於無力承擔全部學費加生活費的新生，TA/RA offer通常和碩士或博士(PhD)項目的錄取通知一起發放，學校會提供相應證明文件，這樣，你去申請留學簽證時，就無需財務證明，而只要學校的證明文件。一般PhD學生肯定可以拿到RA/TA， STEM專業碩士（MS）生中會有少量RA/TA，極少數能幫教授幹活的本科生也可以得到RA。RA/TA的數量非常龐大，美國一半的PhD學生是外國來的（[美國每年畢業大約10萬PhD](https://www.nsf.gov/nsb/sei/one-pagers/Foreign-Born.pdf)），絕大部分靠RA/TA免費讀書。美國/加拿大大學也有傳統意義上的獎學金(scholarship/fellowship)，那個是白給的錢，無需在校園工作, 但是中獎率比RA/TA少很多。我讀PhD五年，沒花家裏一分錢，第一年fellowship, 第二三年TA, 最後兩年RA.
 
