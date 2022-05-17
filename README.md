@@ -15,6 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 [![twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=social)](https://www.reddit.com/r/iwanttorun/)
 
 ## 阶段计划
 
