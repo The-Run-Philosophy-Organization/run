@@ -1,9 +1,9 @@
 # 润学
 
-[![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)](https://github.com/The-Run-Philosophy-Organization/run/actions)
-[![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/issues)
-[![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
+[![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/issues)
+[![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run?style=flat-square)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
 
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
 > 本Repo的核心宗旨，即是在于解决并回答[为什么润](哲学概念/为何而润.md)，[润去哪里](润学方法论/各国选择/)，[怎么润](润学实例/)三大问题；并成为新中国人的核心宗教，核心信念。
@@ -14,6 +14,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
+[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 
 ## 阶段计划
@@ -25,6 +26,8 @@
 > 详细要求[见此](CodeOfConduct.md)
 
 ## 本站精华
+
+[![Contributors](https://img.shields.io/github/contributors/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
 - [为何而润](哲学概念/为何而润.md)
 - [润美方法论：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
@@ -43,8 +46,12 @@
 
 ## 更新日志
 
+[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
+[![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
+
 近期新增（**Week of 2022-5-15**）：
 
+- [贝贝拉如何去澳洲攒金币](润学实例/技工/贝贝拉如何去澳洲攒金币.md)
 - [Secrets of China 中国的秘密：比莉波特与王思聪](润学感悟/比莉波特与王思聪.md)
 - [如何评价人民日报谈：凌晨三点的迪也不是没蹦过？](润学感悟/如何评价人民日报谈凌晨三点的迪也不是没蹦过.md)
 - [哲学概念：自发秩序](哲学概念/自发秩序.md)
@@ -98,10 +105,10 @@
 - [润学方法论：如何寻找适合自己的方案](润学方法论/如何寻找适合自己的方案.md)
 - [从入门到放弃：美国EB-5投资移民签证实操圣经](润学方法论/各国选择/美洲/美国/王探长系列之：美国EB-5投资移民签证实操圣经.md)
 - [章立凡："国进民退"的三次教训](经济问题相关/国进民退的三次教训.md)
-- [感悟：我现在明白为啥要润了](润学见证（证词证言）/我现在明白为啥要润了.md)
+- [感悟：我现在明白为啥要润了](润学感悟/我现在明白为啥要润了.md)
 - [感悟：全世界可口可乐到底是不是一个味道?](润学感悟/全世界可口可乐到底是不是一个味道.md)
 - [德国人怒拒被带走录音](新冠疫情相关/居民抗议/德国人与居委会的录音.mp4)
-- [从偷着乐，到“䟏”](润学见证（证词证言）/README.md)
+- [从偷着乐，到“䟏”](润学感悟/从偷着乐到䟏.md)
 - [新冠疫情相关：华东理工93岁教授](新冠疫情相关/新闻/求救，华东理工93岁教授夫妇.md)
 - [流行病学专家李觉: “动态清零”是综合社会成本最低的抗疫策略](新冠疫情相关/新闻/“动态清零”是综合社会成本最低的抗疫策略.md)
 - [润学方法论之：荷兰](润学方法论/各国选择/西欧北欧/荷兰/)
