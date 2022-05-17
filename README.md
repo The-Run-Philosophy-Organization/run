@@ -1,9 +1,9 @@
 # 润学
 
 [![Markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)](https://github.com/The-Run-Philosophy-Organization/run/actions)
-[![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/issues)
-[![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
+[![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/issues)
+[![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run?style=flat-square)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
 
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
 > 本Repo的核心宗旨，即是在于解决并回答[为什么润](哲学概念/为何而润.md)，[润去哪里](润学方法论/各国选择/)，[怎么润](润学实例/)三大问题；并成为新中国人的核心宗教，核心信念。
@@ -27,7 +27,7 @@
 
 ## 本站精华
 
-[![Contributors](https://img.shields.io/github/contributors/The-Run-Philosophy-Organization/run)]()
+[![Contributors](https://img.shields.io/github/contributors/The-Run-Philosophy-Organization/run?style=flat-square)]()
 
 - [为何而润](哲学概念/为何而润.md)
 - [润美方法论：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
@@ -46,8 +46,8 @@
 
 ## 更新日志
 
-[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run)]()
-[![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run)]()
+[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)]()
+[![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)]()
 
 近期新增（**Week of 2022-5-15**）：
 
