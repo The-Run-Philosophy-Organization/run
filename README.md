@@ -18,9 +18,9 @@
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 [![twitterFollow](https://img.shields.io/twitter/follow/bboczeng?label=Follow%20On%20Twitter)](https://twitter.com/bboczeng)
 
-## 提交PR的阶段计划
+## 提交PR
 
-欢迎大家通过ISSUE或者提交PR的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。感谢大家一起共筑全世界最大的中文润学文库。
+欢迎大家通过提交PR的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。感谢大家一起共筑全世界最大的中文润学文库。
 
 关于如何提交PR，最简单的办法是在创建好自己的GITHUB账号之后，选择本首页右上方的Fork，然后进入自己用户名下Fork好的首页，在任意一个合适的文件夹里选择新建文件，建设一个.md文件提交自己的文章和内容，提交好之后点击Commit，最后再在自己的首页上选择Merge with PR。
 
