@@ -27,7 +27,7 @@
 
 ## 本站精华
 
-[![Contributors](https://img.shields.io/github/contributors/The-Run-Philosophy-Organization/run?style=flat-square)]()
+[![Contributors](https://img.shields.io/github/contributors/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
 - [为何而润](哲学概念/为何而润.md)
 - [润美方法论：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
@@ -46,8 +46,8 @@
 
 ## 更新日志
 
-[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)]()
-[![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)]()
+[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
+[![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
 近期新增（**Week of 2022-5-15**）：
 
