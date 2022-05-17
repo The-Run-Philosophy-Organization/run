@@ -21,7 +21,9 @@
 
 欢迎大家通过ISSUE或者提交PR的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。感谢大家一起共筑全世界最大的中文润学文库。
 
-> 提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加[Archive备份](Archive备份.md)链接
+关于如何提交PR，最简单的办法是在创建好自己的GITHUB账号之后，选择本首页右上方的Fork，然后进入自己用户名下Fork好的首页，在任意一个合适的文件夹里选择新建文件，建设一个.md文件提交自己的文章和内容，提交好之后点击Commit，最后再在自己的首页上选择Merge with PR。
+
+> 提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加[Archive备份](Archive备份相关.md)链接
 >
 > 详细要求[见此](CodeOfConduct.md)
 
@@ -47,7 +49,7 @@
 
 ## 更新日志
 
-[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
+[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
 近期新增（**Week of 2022-5-15**）：
