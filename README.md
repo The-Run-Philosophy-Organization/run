@@ -1,7 +1,7 @@
 # 润学
 
-[![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)](https://github.com/The-Run-Philosophy-Organization/run/actions)
+[![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run)](https://github.com/The-Run-Philosophy-Organization/run/issues)
 [![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
 
@@ -27,6 +27,8 @@
 
 ## 本站精华
 
+[![Contributors](https://img.shields.io/github/contributors/The-Run-Philosophy-Organization/run)]()
+
 - [为何而润](哲学概念/为何而润.md)
 - [润美方法论：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
 - [润学方法论：文科或不好找程序员工作的女生如何润美国，更新了婚后绿卡问题](润学方法论/各国选择/美洲/美国/文科女生不好找程序员的工作如何润美国.md)
@@ -43,6 +45,9 @@
 - [10043润美方法](润学实例/10043学校如何润/10043润美方法.md)
 
 ## 更新日志
+
+[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run)]()
+[![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run)]()
 
 近期新增（**Week of 2022-5-15**）：
 
