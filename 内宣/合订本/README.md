@@ -46,3 +46,7 @@
 ![img](撤侨合订本12.jpeg)
 ![img](撤侨合订本13.jpeg)
 ![img](撤侨合订本14.jpeg)
+
+## 维他奶
+
+[央视说，维他奶是“民族匠心品牌”](https://zhuanlan.zhihu.com/p/482255295)
