@@ -24,7 +24,7 @@
 
 关于如何提交PR：在创建好自己的Github账号之后，选择本首页[右上方的Fork](https://github.com/The-Run-Philosophy-Organization/run/fork)，然后进入自己用户名下Fork好的首页，并在 Actions 页面启用 Workflows
 
-- Github Web端：在合适的文件夹里选择新建文件，创建一个 `.md` 文件编写内容。
+- Github Web 端：在合适的文件夹里选择新建文件，创建一个 `.md` 文件编写内容。
   - 如果是上传文件，则请在对应目录点击 Add File 后点击 Upload Files ，等待文件上传完毕后点击 Commit。
   - 提交好之后点击左下角 Commit 并等待 Actions 检查，若检查通过请在自己的首页上点击 Contribute 后点击下方的 Open Pull Request
 
