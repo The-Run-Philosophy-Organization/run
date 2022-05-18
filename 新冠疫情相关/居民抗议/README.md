@@ -27,6 +27,16 @@
 
 [德国人与居委会的录音听后感](德国人与居委会的录音听后感.md)
 
+## 上海疾控中心工作人员与两名美国女子通话
+
+[上海疾控中心工作人员与两名美国女子“冷静妹”和“暴躁姐”的通话](https://www.youtube.com/watch?v=mJyQD43wkoM)
+
+[【CDTV】上海疾控人员参演的最佳语言类节目《Are u there?No!》](https://chinadigitaltimes.net/chinese/681182.html)
+
+## 朝阳群众拒绝“硬隔离”
+
+[朝阳群众拒绝“硬隔离”，要求在法律框架下自我管理](https://www.youtube.com/watch?v=Mvdl8KLFqII) [CDT总结](https://chinadigitaltimes.net/chinese/681254.html)
+
 ## 微信公众号相关文章
 
 [蔚为大观｜防范区的荒诞与现实](https://mp.weixin.qq.com/s/JFvSF2XCm34U89qIc9TRkA) [CDT备份链接](https://chinadigitaltimes.net/chinese/680679.html)

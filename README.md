@@ -15,11 +15,17 @@
 [![Telegram](https://img.shields.io/badge/Telegram-润学-%232CA5E0?style=flat-square&logo=telegram)](https://t.me/RunOutForLife)
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
-[![twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
+[![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 
-## 阶段计划
+## 提交PR
 
-欢迎大家通过ISSUE或者提交PR的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。感谢大家一起共筑全世界最大的中文润学文库。
+欢迎大家通过提交PR（Pull Request）的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。感谢大家一起共筑全世界最大的中文润学文库。
+
+关于如何提交PR：在创建好自己的Github账号之后，选择本首页[右上方的Fork](https://github.com/The-Run-Philosophy-Organization/run/fork)，然后进入自己用户名下Fork好的首页，并在 Actions 页面启用 Workflows
+
+Github Web端：在合适的文件夹里选择新建文件，创建一个 .md 文件编写内容（上传文件请在对应目录点击Add file后点击Upload files，等待文件上传完毕后点击Commit），提交好之后点击左下角Commit 并等待Actions检查，若检查通过请在自己的首页上点击 Contribute 后点击下方的 Open pull request
+
+本地：请先安装 npm，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
 
 > 提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加[Archive备份](Archive备份.md)链接
 >
@@ -34,6 +40,7 @@
 - [润学方法论：文科或不好找程序员工作的女生如何润美国，更新了婚后绿卡问题](润学方法论/各国选择/美洲/美国/文科女生不好找程序员的工作如何润美国.md)
 - [Andrew：衙学第一篇：公务员范围、职位、级别与工资](润学之衙学基础/衙学第一篇：公务员范围、职位、级别与工资.md)
 - [Nika：没钱人如何移民澳洲](润学方法论/各国选择/亚洲和大洋洲/澳大利亚/没钱人如何移民澳洲.md)
+- [贝贝拉分享之：如何去澳洲攒金币](润学实例/技工/贝贝拉如何去澳洲攒金币.md)
 - [阿里巴巴大牛亲身经历分享：EB1, NIW, O1...如何在国内申请美国绿卡](润学实例/计算机/如何在国内申请美国绿卡.md)
 - [阿里巴巴大牛亲身经历分享：如何寻找适合自己的方案](润学方法论/如何寻找适合自己的方案.md)
 - [北美王探长：移民美国到底有多容易？为什么来了就是美国人？](润学方法论/各国选择/美洲/美国/王探长系列之：为什么来了就是美国人.md)
@@ -46,12 +53,12 @@
 
 ## 更新日志
 
-[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
+[![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
 近期新增（**Week of 2022-5-15**）：
 
-- [贝贝拉如何去澳洲攒金币](润学实例/技工/贝贝拉如何去澳洲攒金币.md)
+- [贝贝拉分享之：如何去澳洲攒金币](润学实例/技工/贝贝拉如何去澳洲攒金币.md)
 - [Secrets of China 中国的秘密：比莉波特与王思聪](润学感悟/比莉波特与王思聪.md)
 - [如何评价人民日报谈：凌晨三点的迪也不是没蹦过？](润学感悟/如何评价人民日报谈凌晨三点的迪也不是没蹦过.md)
 - [哲学概念：自发秩序](哲学概念/自发秩序.md)
@@ -59,7 +66,7 @@
 - [2022年4月份近期金融数据](经济问题相关/金融数据全面坍塌.md)
 - [我们是最后一代](人口问题相关/我们是最后一代.md)
 
-[过往更新](过往更新.md)
+按此查看[过往更新](往期更新.md)
 
 ## 阅读大纲
 
@@ -87,4 +94,4 @@
 
 [![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-本作品采用[知识共享署名 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
+本作品采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。

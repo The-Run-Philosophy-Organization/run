@@ -9,3 +9,7 @@
 [业余人间观察员｜丧事喜办：从庚子事变到灾难兴邦，一场不切实际的幻想](https://chinadigitaltimes.net/chinese/681320.html)
 
 [东瓯故人董文正｜鄱阳县抗洪形势严峻，宣传部门居然还在唱赞歌？](https://chinadigitaltimes.net/chinese/650873.html)
+
+## 中国数字时代
+
+[【翻车现场】丧事喜办老传统：反人类的事开出绚烂花朵](https://chinadigitaltimes.net/chinese/680961.html)
