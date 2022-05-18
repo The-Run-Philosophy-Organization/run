@@ -16,15 +16,18 @@
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
-[![twitterFollow](https://img.shields.io/twitter/follow/bboczeng?label=Follow%20On%20Twitter)](https://twitter.com/bboczeng)
 
 ## 提交PR
 
 欢迎大家通过提交PR（Pull Request）的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。感谢大家一起共筑全世界最大的中文润学文库。
 
-关于如何提交PR，最简单的办法是在创建好自己的Github账号之后，选择本首页右上方的Fork，然后进入自己用户名下Fork好的首页，在任意一个合适的文件夹里选择新建文件，建设一个.md文件提交自己的文章和内容，提交好之后点击Commit，最后再在自己的首页上选择Merge with PR。具体过程可参考[此处](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)，新建文件的部分不需要命令行，网页版即可操作。
+关于如何提交PR：在创建好自己的Github账号之后，选择本首页[右上方的Fork](https://github.com/The-Run-Philosophy-Organization/run/fork)，然后进入自己用户名下Fork好的首页，并在 Actions 页面启用 Workflows
 
-> 提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加[Archive备份](Archive备份相关.md)链接
+Github Web端：在合适的文件夹里选择新建文件，创建一个 .md 文件编写内容（上传文件请在对应目录点击Add file后点击Upload files，等待文件上传完毕后点击Commit），提交好之后点击左下角Commit 并等待Actions检查，若检查通过请在自己的首页上点击 Contribute 后点击下方的 Open pull request
+
+本地：请先安装 npm，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
+
+> 提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加[Archive备份](Archive备份.md)链接
 >
 > 详细要求[见此](CodeOfConduct.md)
 
@@ -91,4 +94,4 @@
 
 [![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-本作品采用[知识共享署名 4.0 国际许可协议](http://creativecommons.org/licenses/by-sa/4.0/)进行许可。
+本作品采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
