@@ -16,7 +16,13 @@
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
-[![twitterFollow](https://img.shields.io/twitter/follow/bboczeng?label=Follow%20On%20Twitter)](https://twitter.com/bboczeng)
+
+>
+>勃勃 [![twitterFollow](https://img.shields.io/twitter/follow/bboczeng?label=Follow%20On%20Twitter)](https://twitter.com/bboczeng)
+>
+>立党 [![twitterFollow](https://img.shields.io/twitter/follow/lidangzzz?label=Follow%20On%20Twitter)](https://twitter.com/lidangzzz/)
+>
+>面包 [![twitterFollow](https://img.shields.io/twitter/follow/himself_65?label=Follow%20On%20Twitter)](https://twitter.com/himself_65)
 
 ## 提交PR
 
@@ -26,11 +32,11 @@
 
 - Github Web 端：在合适的文件夹里选择新建文件，创建一个 `.md` 文件编写内容。
   - 如果是上传文件，则请在对应目录点击 Add File 后点击 Upload Files ，等待文件上传完毕后点击 Commit。
-  - 提交好之后点击左下角 Commit 并等待 Actions 检查，若检查通过请在自己的首页上点击 Contribute 后点击下方的 Open Pull Request
+  - 提交好之后点击左下角 Commit 并等待 Actions 检查，请在检查通过后在自己的首页上点击 Contribute 后点击下方的 Open Pull Request
 
 - 本地：请先安装`npm`，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
 
-提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加[Archive备份](Archive备份.md)链接
+提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在 404 风险请添加[Archive备份](Archive备份.md)链接
 
 详细要求[见此](CodeOfConduct.md)
 
@@ -97,6 +103,6 @@
 
 ## 协议
 
-[![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
 本作品采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
