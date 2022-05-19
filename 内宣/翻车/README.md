@@ -46,3 +46,9 @@
 ![微博tag下截图](人民日报谈追梦这十年-微博tag下截图2.png)
 ![微博tag下截图](人民日报谈追梦这十年-微博tag下截图3.png)
 ![微博tag下截图](人民日报谈追梦这十年-微博tag下截图4.png)
+
+## 上海解封
+
+[中国数字时代 【翻车现场】“上海解封”画大饼从四月画到六月，算不算造谣？](https://chinadigitaltimes.net/chinese/681454.html)
+
+[格十三｜“上海的烟火气正在回来”到底骗没骗人](https://mp.weixin.qq.com/s/eBrYAkgDi_8L3bTjbhfgRA) [Archive备份](https://archive.ph/OnY5o) [CDT备份](https://chinadigitaltimes.net/chinese/681452.html)
