@@ -17,3 +17,5 @@
 [纪录片](纪录片)
 
 - [推荐观看：四月之声](https://www.youtube.com/watch?v=38_thLXNHY8)
+
+[中国清零防疫政策](中国清零防疫政策.md)
