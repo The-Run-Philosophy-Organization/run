@@ -16,7 +16,13 @@
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
-[![twitterFollow](https://img.shields.io/twitter/follow/bboczeng?label=Follow%20On%20Twitter)](https://twitter.com/bboczeng)
+
+>
+>勃勃 [![twitterFollow](https://img.shields.io/twitter/follow/bboczeng?label=Follow%20On%20Twitter)](https://twitter.com/bboczeng)
+>
+>立党 [![twitterFollow](https://img.shields.io/twitter/follow/lidangzzz?label=Follow%20On%20Twitter)](https://twitter.com/lidangzzz/)
+>
+>面包 [![twitterFollow](https://img.shields.io/twitter/follow/himself_65?label=Follow%20On%20Twitter)](https://twitter.com/himself_65)
 
 ## 提交PR
 
