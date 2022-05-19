@@ -17,19 +17,28 @@
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 
+>
+>勃勃 [![twitterFollow](https://img.shields.io/twitter/follow/bboczeng?label=Follow%20On%20Twitter)](https://twitter.com/bboczeng)
+>
+>立党 [![twitterFollow](https://img.shields.io/twitter/follow/lidangzzz?label=Follow%20On%20Twitter)](https://twitter.com/lidangzzz/)
+>
+>面包 [![twitterFollow](https://img.shields.io/twitter/follow/himself_65?label=Follow%20On%20Twitter)](https://twitter.com/himself_65)
+
 ## 提交PR
 
 欢迎大家通过提交PR（Pull Request）的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。感谢大家一起共筑全世界最大的中文润学文库。
 
 关于如何提交PR：在创建好自己的Github账号之后，选择本首页[右上方的Fork](https://github.com/The-Run-Philosophy-Organization/run/fork)，然后进入自己用户名下Fork好的首页，并在 Actions 页面启用 Workflows
 
-Github Web端：在合适的文件夹里选择新建文件，创建一个 .md 文件编写内容（上传文件请在对应目录点击Add file后点击Upload files，等待文件上传完毕后点击Commit），提交好之后点击左下角Commit 并等待Actions检查，若检查通过请在自己的首页上点击 Contribute 后点击下方的 Open pull request
+- Github Web 端：在合适的文件夹里选择新建文件，创建一个 `.md` 文件编写内容。
+  - 如果是上传文件，则请在对应目录点击 Add File 后点击 Upload Files ，等待文件上传完毕后点击 Commit。
+  - 提交好之后点击左下角 Commit 并等待 Actions 检查，请在检查通过后在自己的首页上点击 Contribute 后点击下方的 Open Pull Request
 
-本地：请先安装 npm，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
+- 本地：请先安装`npm`，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
 
-> 提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加[Archive备份](Archive备份.md)链接
->
-> 详细要求[见此](CodeOfConduct.md)
+提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在 404 风险请添加[Archive备份](Archive备份.md)链接
+
+详细要求[见此](CodeOfConduct.md)
 
 ## 本站精华
 
@@ -58,6 +67,8 @@ Github Web端：在合适的文件夹里选择新建文件，创建一个 .md �
 
 近期新增（**Week of 2022-5-15**）：
 
+- [绿卡-永居-国籍的概念与区分](润学方法论/绿卡-永居-国籍的概念与区分.md)
+- [哲学概念：自由主义](哲学概念/自由主义.md)
 - [贝贝拉分享之：如何去澳洲攒金币](润学实例/技工/贝贝拉如何去澳洲攒金币.md)
 - [Secrets of China 中国的秘密：比莉波特与王思聪](润学感悟/比莉波特与王思聪.md)
 - [如何评价人民日报谈：凌晨三点的迪也不是没蹦过？](润学感悟/如何评价人民日报谈凌晨三点的迪也不是没蹦过.md)
@@ -92,6 +103,6 @@ Github Web端：在合适的文件夹里选择新建文件，创建一个 .md �
 
 ## 协议
 
-[![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
 本作品采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
