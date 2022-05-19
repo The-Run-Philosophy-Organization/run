@@ -34,7 +34,7 @@
   - 如果是上传文件，则请在对应目录点击 Add File 后点击 Upload Files ，等待文件上传完毕后点击 Commit。
   - 提交好之后点击左下角 Commit 并等待 Actions 检查，若检查通过请在自己的首页上点击 Contribute 后点击下方的 Open Pull Request
 
-- 本地：请先安装 npm，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
+- 本地：请先安装`npm`，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
 
 提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加[Archive备份](Archive备份.md)链接
 
