@@ -26,11 +26,11 @@
 
 - Github Web 端：在合适的文件夹里选择新建文件，创建一个 `.md` 文件编写内容。
   - 如果是上传文件，则请在对应目录点击 Add File 后点击 Upload Files ，等待文件上传完毕后点击 Commit。
-  - 提交好之后点击左下角 Commit 并等待 Actions 检查，若检查通过请在自己的首页上点击 Contribute 后点击下方的 Open Pull Request
+  - 提交好之后点击左下角 Commit 并等待 Actions 检查，请在检查通过后在自己的首页上点击 Contribute 后点击下方的 Open Pull Request
 
 - 本地：请先安装`npm`，后续操作[见文章](https://chinese.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github/)
 
-提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在被删除的风险请添加[Archive备份](Archive备份.md)链接
+提交B站等国内平台的视频和文章链接请移除追踪参数，如果存在 404 风险请添加[Archive备份](Archive备份.md)链接
 
 详细要求[见此](CodeOfConduct.md)
 
@@ -40,6 +40,7 @@
 
 - [为何而润](哲学概念/为何而润.md)
 - [润美方法论：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
+- [润美方法论：美国工作签证的基本常识](润学方法论/各国选择/美洲/美国/美国工作签证的基本常识.md)
 - [润学方法论：文科或不好找程序员工作的女生如何润美国，更新了婚后绿卡问题](润学方法论/各国选择/美洲/美国/文科女生不好找程序员的工作如何润美国.md)
 - [Andrew：衙学第一篇：公务员范围、职位、级别与工资](润学之衙学基础/衙学第一篇：公务员范围、职位、级别与工资.md)
 - [Nika：没钱人如何移民澳洲](润学方法论/各国选择/亚洲和大洋洲/澳大利亚/没钱人如何移民澳洲.md)
@@ -61,6 +62,9 @@
 
 近期新增（**Week of 2022-5-15**）：
 
+- [润美方法论：美国工作签证的基本常识](润学方法论/各国选择/美洲/美国/美国工作签证的基本常识.md)
+- [新冠疫情相关：中国清零防疫政策](新冠疫情相关/中国清零防疫政策.md)
+- [哲学概念：中国的审查](哲学概念/中国的审查.md)
 - [绿卡-永居-国籍的概念与区分](润学方法论/绿卡-永居-国籍的概念与区分.md)
 - [哲学概念：自由主义](哲学概念/自由主义.md)
 - [贝贝拉分享之：如何去澳洲攒金币](润学实例/技工/贝贝拉如何去澳洲攒金币.md)
@@ -97,6 +101,6 @@
 
 ## 协议
 
-[![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[![LICENSE](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 
 本作品采用[知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)进行许可。
