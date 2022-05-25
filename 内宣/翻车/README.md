@@ -52,3 +52,11 @@
 [中国数字时代 【翻车现场】“上海解封”画大饼从四月画到六月，算不算造谣？](https://chinadigitaltimes.net/chinese/681454.html)
 
 [格十三｜“上海的烟火气正在回来”到底骗没骗人](https://mp.weixin.qq.com/s/eBrYAkgDi_8L3bTjbhfgRA) [Archive备份](https://archive.ph/OnY5o) [CDT备份](https://chinadigitaltimes.net/chinese/681452.html)
+
+## 上海地铁恢复当日直播大翻车
+
+[【404文库】【CDTV】上海地铁恢复当日直播大翻车：“被关在家里不能出去，真是天大的笑话”](https://chinadigitaltimes.net/chinese/681854.html)
+
+[澎湃新闻在上海地铁恢复当日的直播“翻车”](https://www.youtube.com/watch?v=rCshoPoPpQY)
+
+[上海人民广播电台“解封日”地铁直播翻车: 阿姨：“被关在家里不能出去两个月，真是天大的笑话！”](https://www.youtube.com/watch?v=MIZM9D62S3Y)
