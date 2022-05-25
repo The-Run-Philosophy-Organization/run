@@ -16,7 +16,6 @@
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
-[![twitterFollow](https://img.shields.io/twitter/follow/bboczeng?label=Follow%20On%20Twitter)](https://twitter.com/bboczeng)
 
 ## 提交PR
 
@@ -60,21 +59,14 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-5-15**）：
+近期新增（**Week of 2022-5-25**）：
 
-- [润美方法论：美国工作签证的基本常识](润学方法论/各国选择/美洲/美国/美国工作签证的基本常识.md)
-- [新冠疫情相关：中国清零防疫政策](新冠疫情相关/中国清零防疫政策.md)
-- [哲学概念：中国的审查](哲学概念/中国的审查.md)
-- [绿卡-永居-国籍的概念与区分](润学方法论/绿卡-永居-国籍的概念与区分.md)
-- [哲学概念：自由主义](哲学概念/自由主义.md)
-- [贝贝拉分享之：如何去澳洲攒金币](润学实例/技工/贝贝拉如何去澳洲攒金币.md)
-- [Secrets of China 中国的秘密：比莉波特与王思聪](润学感悟/比莉波特与王思聪.md)
-- [如何评价人民日报谈：凌晨三点的迪也不是没蹦过？](润学感悟/如何评价人民日报谈凌晨三点的迪也不是没蹦过.md)
-- [哲学概念：自发秩序](哲学概念/自发秩序.md)
-- [润美方法论之：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
-- [2022年4月份近期金融数据](经济问题相关/金融数据全面坍塌.md)
-- [我们是最后一代](人口问题相关/我们是最后一代.md)
-
+- [翻车现场 上海地铁恢复当日直播大翻车](内宣/翻车/README.md)
+- [中国清零防疫政策](新冠疫情相关/中国清零防疫政策.md)
+- [哲学概念 中国的审查](哲学概念/中国的审查.md)
+- [新冠疫情相关 相关创作](新冠疫情相关/相关创作.md)
+- [新冠疫情相关 离开上海](新冠疫情相关/离开上海.md)
+ 
 按此查看[过往更新](往期更新.md)
 
 ## 阅读大纲
