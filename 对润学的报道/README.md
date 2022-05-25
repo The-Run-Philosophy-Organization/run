@@ -7,3 +7,5 @@
 [端传媒](https://theinitium.com/tags/_3121/)
 
 [中国数字空间](https://chinadigitaltimes.net/space/润)
+
+[纽约时报 “最后一代”和“润学”：中国年轻人的绝望与幻灭](“最后一代”和“润学”：中国年轻人的绝望与幻灭.md)
