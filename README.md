@@ -59,7 +59,7 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-5-25**）：
+近期新增（**Week of 2022-5-22**）：
 
 - [翻车现场 上海地铁恢复当日直播大翻车](内宣/翻车/README.md)
 - [中国清零防疫政策](新冠疫情相关/中国清零防疫政策.md)
