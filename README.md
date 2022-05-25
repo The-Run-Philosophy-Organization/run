@@ -59,15 +59,6 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-<<<<<<< HEAD
-近期新增（**Week of 2022-5-25**）：
-
-- [翻车现场 上海地铁恢复当日直播大翻车](内宣/翻车/README.md)
-- [中国清零防疫政策](新冠疫情相关/中国清零防疫政策.md)
-- [哲学概念 中国的审查](哲学概念/中国的审查.md)
-- [新冠疫情相关 相关创作](新冠疫情相关/相关创作.md)
-- [新冠疫情相关 离开上海](新冠疫情相关/离开上海.md)
-=======
 近期新增（**Week of 2022-5-22**）：
 
 - [纽约时报 “最后一代”和“润学”：中国年轻人的绝望与幻灭](对润学的报道/“最后一代”和“润学”：中国年轻人的绝望与幻灭.md)
@@ -76,7 +67,6 @@
 - [哲学概念：中国的审查](哲学概念/中国的审查.md)
 - [新冠疫情相关：相关创作](新冠疫情相关/相关创作.md)
 - [新冠疫情相关：离开上海](新冠疫情相关/离开上海.md)
->>>>>>> e2cb4e431f2e2c94c5728578204c3976d98d0dec
 
 按此查看[过往更新](往期更新.md)
 
