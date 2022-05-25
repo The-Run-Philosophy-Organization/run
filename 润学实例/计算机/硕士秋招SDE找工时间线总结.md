@@ -31,7 +31,7 @@
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112019.nq9ujtg68n.png)
 >>
->> **Uber**: 19年9月初 <https://www.1point3acres.com/bbs/thread-547399-1-1.html>
+>> **Uber**: 19年9月初 <https://web.archive.org/web/20220525152628/https://www.1point3acres.com/bbs/thread-547399-1-1.html>
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113839.vl7ng3bi1n9.png)
 >>
@@ -51,13 +51,13 @@
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112905.brpcxbhtu0p.png)
 >>
->>PS: 此大佬在18年也发过一个fb招聘的帖子，下面的补充内容从8-3延续到10-22，能看到**随着时间的发展秋招的实时进度**，非常精彩！: <https://www.1point3acres.com/bbs/thread-434677-1-1.html>
+>>PS: 此大佬在18年也发过一个fb招聘的帖子，下面的补充内容从8-3延续到10-22，能看到**随着时间的发展秋招的实时进度**，非常精彩！: <https://archive.ph/aZ2SV>
 >>
->> **FB** update: 2019年7月8号就已经开始了 <https://www.1point3acres.com/bbs/thread-535937-1-1.html>
+>> **FB** update: 2019年7月8号就已经开始了 <https://archive.ph/Pxmwl>
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113030.m496rm6tmrl.png)
 >>
->> **Amazon**: 19年8月初/中旬 <https://www.1point3acres.com/bbs/thread-542625-1-1.html>
+>> **Amazon**: 19年8月初/中旬 <https://archive.ph/EN1k3>
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113148.81jvy1qn88a.png) </details>
 >>
