@@ -27,7 +27,7 @@
 >>
 >>请自行搜索"New Grad" + "内推" + "岗位 开放" 等关键词 + "site:1point3acres.com"，必要时使用google的search tools来restrict time.
 >>
->> **Vmware**: 19年7月底 <https://www.1point3acres.com/bbs/thread-540378-1-1.html>
+>> **Vmware**: 19年7月底 <https://web.archive.org/web/20220525152452/https://www.1point3acres.com/bbs/thread-540378-1-1.html>
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112019.nq9ujtg68n.png)
 >>
@@ -35,19 +35,19 @@
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113839.vl7ng3bi1n9.png)
 >>
->> **Lyft**: 19年8月末 <https://www.1point3acres.com/bbs/thread-545351-1-1.html>
+>> **Lyft**: 19年8月末 <https://web.archive.org/web/20220525152632/https://www.1point3acres.com/bbs/thread-545351-1-1.html>
 >>
 >>![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112453.jiqud4se8r.png)
 >>
->> **GG**: 19年8月末 <https://www.1point3acres.com/bbs/thread-545594-1-1.html>
+>> **GG**: 19年8月末 <https://web.archive.org/web/20220525152728/https://www.1point3acres.com/bbs/thread-545594-1-1.html>
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112612.95qaq4eme7.png)
 >>
->> **Airbnb**: 19年8月末 <https://www.1point3acres.com/bbs/thread-545761-1-1.html>
+>> **Airbnb**: 19年8月末 <https://web.archive.org/web/20220525152837/https://www.1point3acres.com/bbs/thread-545761-1-1.html>
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112740.1iewuq1hoc6.png)
 >>
->>**FB**: 19年7月末 <https://www.1point3acres.com/bbs/thread-539903-1-1.html>
+>>**FB**: 19年7月末 <https://web.archive.org/web/20220525153005/https://www.1point3acres.com/bbs/thread-539903-1-1.html>
 >>
 >> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112905.brpcxbhtu0p.png)
 >>
