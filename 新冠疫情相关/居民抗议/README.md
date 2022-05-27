@@ -39,8 +39,6 @@
 
 ## 微信公众号相关文章
 
-[蔚为大观｜防范区的荒诞与现实](https://mp.weixin.qq.com/s/JFvSF2XCm34U89qIc9TRkA) [CDT备份链接](https://chinadigitaltimes.net/chinese/680679.html)
-
 [微板报｜封就是封，何必造那么多新词呢](https://mp.weixin.qq.com/s/gmcDqYOxJfeXvASg4Q6jzA) [CDT备份链接](https://chinadigitaltimes.net/chinese/679789.html)
 
 [人格志｜上海孕妇低价买鸡蛋分邻居被逼写保证书：权力幻觉导致人性异变](https://mp.weixin.qq.com/s/tg53xSinCoyrGTlmMVg59w) [CDT备份链接](https://chinadigitaltimes.net/chinese/681092.html)

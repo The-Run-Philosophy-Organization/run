@@ -1,6 +1,6 @@
 # 新疆专栏
 
-## 新疆公安文件
+## [新疆公安文件](https://www.xinjiangpolicefiles.org/)
 
 ![中国官方说法](中国官方说法.webp)
 
