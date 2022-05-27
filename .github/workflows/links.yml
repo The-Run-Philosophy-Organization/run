@@ -12,5 +12,6 @@ jobs:
           use-quiet-mode: 'yes'
           use-verbose-mode: 'yes'
           check-modified-files-only: 'yes'
-          config-file: '.mlc_config.json'
+          config-file: '.markdownlinkscheck.json'
           base-branch: 'main'
+
