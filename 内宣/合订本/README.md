@@ -18,7 +18,7 @@
 ## 新冠阴谋论
 
 ![img](男子造谣病毒来自美生化实验室被拘.png)
-[新冠疫情溯源问题](/新冠疫情相关/溯源相关/README.md)
+[新冠疫情溯源问题](https://github.com/The-Run-Philosophy-Organization/run/blob/main/新冠疫情相关/溯源问题.md)
 
 ## 中国共产党在1944年的“庄严承诺”
 

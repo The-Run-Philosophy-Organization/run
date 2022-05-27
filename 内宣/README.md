@@ -8,6 +8,6 @@
 
 [翻车现场](./翻车/README.md)
 
-[造假](./造假/README.md)
+[假新闻](./假新闻/README.md)
 
 [丧事喜办](./丧事喜办/README.md)

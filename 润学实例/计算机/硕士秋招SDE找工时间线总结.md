@@ -8,7 +8,7 @@
 
 一般公司7月份到12月是秋招时间，7月岗位内推大规模放出，内推/网申后一周/一月排面试，什么时候结束看面试进度。
 
-> <b>引用一下地里的帖子</b>：<https://www.1point3acres.com/bbs/thread-523163-1-1.html>
+> <b>引用一下地里的帖子</b>：<https://archive.ph/0OCT9>
 >
 >说说我还有印象的几个公司18年秋招初期的情况。
 >
@@ -27,39 +27,39 @@
 >>
 >>请自行搜索"New Grad" + "内推" + "岗位 开放" 等关键词 + "site:1point3acres.com"，必要时使用google的search tools来restrict time.
 >>
->> **Vmware**: 19年7月底 <https://www.1point3acres.com/bbs/thread-540378-1-1.html>
+>> **Vmware**: 19年7月底 <https://web.archive.org/web/20220525152452/https://www.1point3acres.com/bbs/thread-540378-1-1.html>
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112019.nq9ujtg68n.png)
+>> ![VMware](imgs/VMware内推.png)
 >>
->> **Uber**: 19年9月初 <https://www.1point3acres.com/bbs/thread-547399-1-1.html>
+>> **Uber**: 19年9月初 <https://web.archive.org/web/20220525152628/https://www.1point3acres.com/bbs/thread-547399-1-1.html>
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113839.vl7ng3bi1n9.png)
+>> ![Uber内推](imgs/Uber内推.png)
 >>
->> **Lyft**: 19年8月末 <https://www.1point3acres.com/bbs/thread-545351-1-1.html>
+>> **Lyft**: 19年8月末 <https://web.archive.org/web/20220525152632/https://www.1point3acres.com/bbs/thread-545351-1-1.html>
 >>
->>![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112453.jiqud4se8r.png)
+>>![Lyft内推](imgs/Lyft内推.png)
 >>
->> **GG**: 19年8月末 <https://www.1point3acres.com/bbs/thread-545594-1-1.html>
+>> **GG**: 19年8月末 <https://web.archive.org/web/20220525152728/https://www.1point3acres.com/bbs/thread-545594-1-1.html>
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112612.95qaq4eme7.png)
+>> ![Google内推](imgs/Google内推.png)
 >>
->> **Airbnb**: 19年8月末 <https://www.1point3acres.com/bbs/thread-545761-1-1.html>
+>> **Airbnb**: 19年8月末 <https://web.archive.org/web/20220525152837/https://www.1point3acres.com/bbs/thread-545761-1-1.html>
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112740.1iewuq1hoc6.png)
+>> ![Airbnb内推](imgs/Airbnb内推.png)
 >>
->>**FB**: 19年7月末 <https://www.1point3acres.com/bbs/thread-539903-1-1.html>
+>>**FB**: 19年7月末 <https://web.archive.org/web/20220525153005/https://www.1point3acres.com/bbs/thread-539903-1-1.html>
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_112905.brpcxbhtu0p.png)
+>> ![Facebook内推](imgs/Facebook内推.png)
 >>
->>PS: 此大佬在18年也发过一个fb招聘的帖子，下面的补充内容从8-3延续到10-22，能看到**随着时间的发展秋招的实时进度**，非常精彩！: <https://www.1point3acres.com/bbs/thread-434677-1-1.html>
+>>PS: 此大佬在18年也发过一个fb招聘的帖子，下面的补充内容从8-3延续到10-22，能看到**随着时间的发展秋招的实时进度**，非常精彩！: <https://archive.ph/aZ2SV>
 >>
->> **FB** update: 2019年7月8号就已经开始了 <https://www.1point3acres.com/bbs/thread-535937-1-1.html>
+>> **FB** update: 2019年7月8号就已经开始了 <https://archive.ph/Pxmwl>
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113030.m496rm6tmrl.png)
+>> ![Google和Facebook打包](imgs/Google和Facebook打包.png)
 >>
->> **Amazon**: 19年8月初/中旬 <https://www.1point3acres.com/bbs/thread-542625-1-1.html>
+>> **Amazon**: 19年8月初/中旬 <https://archive.ph/EN1k3>
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113148.81jvy1qn88a.png) </details>
+>> ![Amazon内推](imgs/Amazon内推.png) </details>
 >>
 >> <details> <summary><b>另外一位用户的补充</b>：https://www.1point3acres.com/bbs/thread-631642-1-1.html </summary>
 >>
@@ -76,7 +76,7 @@
 >>
 >>不是刷地理，地理没有第一手的求职信息。打开Google job search的alert 和领英的job alert，设置关键词 new graduate/ recent grad sde，都是学cs的人了。。这些都是基本操作把。。。
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200702_113732.blydgf4kgyn.png)</details>
+>> ![另外一位用户的补充](imgs/另外一位用户的补充.png)</details>
 >>
 >> <details> <summary><b>Linkedin朋友真实经历</b>（入学第一个暑假在amazon intern）</summary>
 >>
@@ -94,7 +94,7 @@
 >>
 >> * 结束面试这个说不准的，我是春招才找到的实习
 >>
->> ![image](https://raw.githubusercontent.com/yiyangiliu/TuChuang/master/blog/Clip_20200708_111434.5ssa2s5hkfc.png)
+>> ![Linkedin朋友真实经历](imgs/Linkedin朋友真实经历.png)
 >>
 
 此时找的实习是一年以后的实习。比如我想在**22年5-8月**实习，那么就要提前差不多一年**21年7月底**linkedin上四处加人/地里求内推

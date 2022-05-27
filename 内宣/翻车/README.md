@@ -14,7 +14,7 @@
 
 ## 无人机飞跃黄浦江为癌症患者送救命药
 
-[![新闻报道](无人机飞跃黄浦江为癌症患者送救命药-新闻报道.jpg)](https://k.sina.com.cn/article_1567403105_5d6cac6104000yn7s.html)
+![新闻报道](无人机飞跃黄浦江为癌症患者送救命药-新闻报道.jpg)
 
 ![评价截图](无人机飞跃黄浦江为癌症患者送救命药-评价截图1.jpg)
 
@@ -57,6 +57,8 @@
 
 [【404文库】【CDTV】上海地铁恢复当日直播大翻车：“被关在家里不能出去，真是天大的笑话”](https://chinadigitaltimes.net/chinese/681854.html)
 
-[澎湃新闻在上海地铁恢复当日的直播“翻车”](https://www.youtube.com/watch?v=rCshoPoPpQY)
+[![天大的笑话](天大的笑话.webp)](https://chinadigitaltimes.net/chinese/681842.html)
 
-[上海人民广播电台“解封日”地铁直播翻车: 阿姨：“被关在家里不能出去两个月，真是天大的笑话！”](https://www.youtube.com/watch?v=MIZM9D62S3Y)
+>[澎湃新闻在上海地铁恢复当日的直播“翻车”](https://www.youtube.com/watch?v=rCshoPoPpQY)
+>
+>[上海人民广播电台“解封日”地铁直播翻车: 阿姨：“被关在家里不能出去两个月，真是天大的笑话！”](https://www.youtube.com/watch?v=MIZM9D62S3Y)
