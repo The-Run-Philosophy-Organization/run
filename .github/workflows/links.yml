@@ -10,5 +10,5 @@ jobs:
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           use-verbose-mode: yes
-          check-modified-files-only: git
+          check-modified-files-only: yes
 
