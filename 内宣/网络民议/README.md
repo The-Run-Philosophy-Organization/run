@@ -62,9 +62,3 @@
 >[澎湃新闻在上海地铁恢复当日的直播“翻车”](https://www.youtube.com/watch?v=rCshoPoPpQY)
 >
 >[上海人民广播电台“解封日”地铁直播翻车: 阿姨：“被关在家里不能出去两个月，真是天大的笑话！”](https://www.youtube.com/watch?v=MIZM9D62S3Y)
-
-## 车的方向都开反了，现在却在修理车、保养车
-
-[【网络民议】车的方向都开反了，现在却在修理车、保养车](https://chinadigitaltimes.net/chinese/682049.html)
-
->[李克强主持召开国务院常务会议 进一步部署稳经济一揽子措施](https://www.gov.cn/zhengce/2022-05/24/content_5692004.htm)
