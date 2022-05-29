@@ -37,6 +37,18 @@
 
 [朝阳群众拒绝“硬隔离”，要求在法律框架下自我管理](https://www.youtube.com/watch?v=Mvdl8KLFqII) [CDT总结](https://chinadigitaltimes.net/chinese/681254.html)
 
+## 上海一位被封70天后的老先生的感叹
+
+[上海一位被封70天后的老先生：“让我们受苦的不是Delta, 不是Omicron，是人！”](https://www.youtube.com/watch?v=Ak0DrWPxYTg)
+
+>每一位感同身受的人，让我们把这一切记录下来，告诉我们的下一代，这一幕不要再重现了。
+>
+>让我们受苦的不是Delta, 不是Omicron，是人！人！
+>
+> 千万不要忘记，这些人啊，就可以人把人搞得人不像人！
+>
+> 告诉下一代：我们要怜悯人，我们要爱我们的人！
+
 ## 微信公众号相关文章
 
 [微板报｜封就是封，何必造那么多新词呢](https://mp.weixin.qq.com/s/gmcDqYOxJfeXvASg4Q6jzA) [CDT备份链接](https://chinadigitaltimes.net/chinese/679789.html)

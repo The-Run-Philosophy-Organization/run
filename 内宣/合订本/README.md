@@ -50,3 +50,9 @@
 ## 维他奶
 
 [央视说，维他奶是“民族匠心品牌”](https://zhuanlan.zhihu.com/p/482255295)
+
+## 转播NBA
+
+[央视体育频道回应NBA赛事转播传言：事关中国主权，绝无回旋余地！](https://www.bilibili.com/video/BV1aZ4y1p7Wh/)
+
+[哇哦，央视复播NBA了！](https://www.bilibili.com/video/BV1nz4y1o7h1/)
