@@ -22,9 +22,3 @@ jobs:
           use-verbose-mode: 'yes'
           config-file: '.markdownlinkscheck.json'
           base-branch: 'main'
-
-  Space:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: ocular-d/trailing-spaces@main
