@@ -12,7 +12,7 @@
 
 - 浙江大学数学系飞跃手册 [浙江大学数学系飞跃手册](https://web.archive.org/web/20220510230812/http://www.math.zju.edu.cn/_upload/article/files/99/e1/32b8399349af89f05033bf19a32e/4fd486a5-8a4e-47f0-a9c1-9fdba8cae593.pdf)
 
-- 浙江大学光电系飞跃手册 [浙江大学光电系飞跃手册](https://www.scribd.com/document/518260625/17 级光电飞跃手册)
+- 浙江大学光电系飞跃手册 [浙江大学光电系飞跃手册](https://www.scribd.com/document/518260625/17级光电飞跃手册)
 
 - 浙江大学外语学院飞跃手册 [浙江大学外语学院飞跃手册](https://web.archive.org/web/20220526164948/http://www.sis.zju.edu.cn/_upload/article/files/d1/4f/4bdc41fb43c998f58d9ea03b77c5/1af0ee6f-ca7e-4a9f-b100-b3161378590c.pdf)
 
