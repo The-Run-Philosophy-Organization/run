@@ -8,9 +8,9 @@
 
 ### 俄乌战争相关
 
-[澎湃报道：乌总统：俄军“不可能”完全撤出乌克兰，愿就顿巴斯问题妥协(引用英国天空新闻网的报道)](https://archive.ph/lPPSU)
+[澎湃报道：乌总统：俄军“不可能”完全撤出乌克兰，愿就顿巴斯问题妥协(引用英国天空新闻网的报道)](https://www.thepaper.cn/newsDetail_forward_17337758) [Archive备份](https://archive.ph/lPPSU)
 
-[英国天空新闻网原文](https://archive.ph/W6Tas)
+[英国天空新闻网原文](https://news.sky.com/story/ukraine-war-zelenskyy-says-ukraine-is-willing-to-consider-declaring-neutrality-and-offer-security-guarantees-to-russia-12576688) [Archive备份](https://archive.ph/W6Tas)
 
 ![img](乌克兰相关新闻1.jpeg)
 
@@ -28,7 +28,7 @@
 
 ### 奥密克戎毒株
 
-[CCTV原文链接](https://archive.ph/R2zSs)
+[CCTV原文链接](https://content-static.cctvnews.cctv.com/snow-book/index.html?item_id=1495693181517178915) [Archive备份](https://archive.ph/R2zSs)
 
 [WHO原文链接](https://www.who.int/publications/m/item/weekly-epidemiological-update-on-covid-19---12-april-2022)
 
@@ -48,7 +48,7 @@
 ![img](央视报道法国电价.png)
 ![img](法国电价1.jpg)
 
-[法国媒体报道链接](https://archive.ph/oqlPL)
+[法国媒体报道链接](https://www.lemonde.fr/les-decodeurs/article/2022/02/01/comprendre-d-ou-vient-la-hausse-de-4-de-l-electricite-et-pourquoi-elle-aurait-du-etre-bien-plus-elevee_6111808_4355770.html) [Archive备份](https://archive.ph/oqlPL)
 
 ## 相关阅读
 

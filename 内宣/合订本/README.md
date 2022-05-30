@@ -18,7 +18,7 @@
 ## 新冠阴谋论
 
 ![img](男子造谣病毒来自美生化实验室被拘.png)
-[新冠疫情溯源问题](/新冠疫情相关/溯源相关/README.md)
+[新冠疫情溯源问题](https://github.com/The-Run-Philosophy-Organization/run/blob/main/新冠疫情相关/溯源问题.md)
 
 ## 中国共产党在1944年的“庄严承诺”
 
@@ -50,3 +50,9 @@
 ## 维他奶
 
 [央视说，维他奶是“民族匠心品牌”](https://zhuanlan.zhihu.com/p/482255295)
+
+## 转播NBA
+
+[央视体育频道回应NBA赛事转播传言：事关中国主权，绝无回旋余地！](https://www.bilibili.com/video/BV1aZ4y1p7Wh/)
+
+[哇哦，央视复播NBA了！](https://www.bilibili.com/video/BV1nz4y1o7h1/)

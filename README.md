@@ -1,10 +1,12 @@
 # 润学
 
-[![Markdown](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg)](https://github.com/The-Run-Philosophy-Organization/run/actions)
 [![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/issues)
 [![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run?style=flat-square)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
 
+>Actions Status [![Links](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml)
+[![Linter](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml)
+>
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
 > 本Repo的核心宗旨，即是在于解决并回答[为什么润](哲学概念/为何而润.md)，[润去哪里](润学方法论/各国选择/)，[怎么润](润学实例/)三大问题；并成为新中国人的核心宗教，核心信念。
 > 中国人的润将会持续至少100年，直到2122年为止。而本目录，也将会持续100年，直到山无棱、天地合，才敢与润绝。
@@ -16,7 +18,6 @@
 [![Discord](https://img.shields.io/badge/Discord-润学-%235865F2?style=flat-square&logo=discord)](https://t.co/TmLbFbNkUy)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
-[![twitterFollow](https://img.shields.io/twitter/follow/bboczeng?label=Follow%20On%20Twitter)](https://twitter.com/bboczeng)
 
 ## 提交PR
 
@@ -60,20 +61,20 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-5-15**）：
+近期新增（**Week of 2022-5-28**）：
 
-- [润美方法论：美国工作签证的基本常识](润学方法论/各国选择/美洲/美国/美国工作签证的基本常识.md)
-- [新冠疫情相关：中国清零防疫政策](新冠疫情相关/中国清零防疫政策.md)
+- [经济问题相关：我们的经济会变好吗](经济问题相关/我们的经济会变好吗.md)
+- [经济问题相关：国务院十万人大会](经济问题相关/国务院十万人大会.md)
+- [经济问题相关：国内汽车销量数据分析](经济问题相关/国内汽车销量数据分析.md)
+- [经济问题相关：中国经济的真实状况](经济问题相关/中国经济的真实状况.md)
+- [润学感悟：聊聊“润”](润学感悟/聊聊“润”.md)
+- [经济学人：习近平正如何摧毁中国经济](经济问题相关/经济学人：习近平正如何摧毁中国经济.md)
+- [纽约时报 “最后一代”和“润学”：中国年轻人的绝望与幻灭](对润学的报道/“最后一代”和“润学”：中国年轻人的绝望与幻灭.md)
+- [翻车现场：上海地铁恢复当日直播大翻车](内宣/网络民议/README.md)
+- [中国清零防疫政策](新冠疫情相关/中国清零防疫政策.md)
 - [哲学概念：中国的审查](哲学概念/中国的审查.md)
-- [绿卡-永居-国籍的概念与区分](润学方法论/绿卡-永居-国籍的概念与区分.md)
-- [哲学概念：自由主义](哲学概念/自由主义.md)
-- [贝贝拉分享之：如何去澳洲攒金币](润学实例/技工/贝贝拉如何去澳洲攒金币.md)
-- [Secrets of China 中国的秘密：比莉波特与王思聪](润学感悟/比莉波特与王思聪.md)
-- [如何评价人民日报谈：凌晨三点的迪也不是没蹦过？](润学感悟/如何评价人民日报谈凌晨三点的迪也不是没蹦过.md)
-- [哲学概念：自发秩序](哲学概念/自发秩序.md)
-- [润美方法论之：一位CS教授的靠谱润学](润学方法论/各国选择/美洲/美国/CS教授的靠谱润学.md)
-- [2022年4月份近期金融数据](经济问题相关/金融数据全面坍塌.md)
-- [我们是最后一代](人口问题相关/我们是最后一代.md)
+- [新冠疫情相关：相关创作](新冠疫情相关/相关创作.md)
+- [新冠疫情相关：离开上海](新冠疫情相关/离开上海.md)
 
 按此查看[过往更新](往期更新.md)
 
@@ -89,7 +90,7 @@
 
 - 关于**怎么润**，请参考全球润友自身的经历 [润学实例](润学实例)：
 
-最后，茶余饭后，博君一笑，可以访问 [咱们赢麻了知名言论合集](张维为陈平曹丰泽等知名言论收集), [外交部赢化论精选](外交部发言精选), [内宣翻车现场](内宣/翻车)。
+最后，茶余饭后，博君一笑，可以访问 [咱们赢麻了知名言论合集](张维为陈平曹丰泽等知名言论收集), [外交部赢化论精选](外交部发言精选)。
 
 ## 鸣谢
 
