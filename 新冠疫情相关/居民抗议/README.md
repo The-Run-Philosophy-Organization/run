@@ -19,7 +19,7 @@
 
 ![松江九亭家园唱歌随后无人机赶到](松江九亭家园唱歌随后无人机赶到.PNG)
 
-<video src="无人机.控制灵魂对自由的渴望.mp4"></video>
+<video src="无人机。控制灵魂对自由的渴望.mp4"></video>
 
 ## 德国人怒怼居委会
 
@@ -35,15 +35,17 @@
 
 ## 朝阳群众拒绝“硬隔离”
 
-[朝阳群众拒绝“硬隔离”，要求在法律框架下自我管理](https://www.youtube.com/watch?v=Mvdl8KLFqII) [CDT总结](https://chinadigitaltimes.net/chinese/681254.html)
+[朝阳群众拒绝“硬隔离”，要求在法律框架下自我管理](https://www.youtube.com/watch?v=Mvdl8KLFqII) [CDT 总结](https://chinadigitaltimes.net/chinese/681254.html)
 
-## 上海一位被封70天后的老先生的感叹
+## 上海一位被封 70 天后的老先生的感叹
 
-[上海一位被封70天后的老先生：“让我们受苦的不是Delta, 不是Omicron，是人！”](https://www.youtube.com/watch?v=Ak0DrWPxYTg)
+[![一位上海据名在封城 70 天之后如是说](一位上海据名在封城70天之后如是说.webp)](https://chinadigitaltimes.net/chinese/682276.html)
+
+[上海一位被封 70 天后的老先生：“让我们受苦的不是 Delta，不是 Omicron，是人！”](https://www.youtube.com/watch?v=Ak0DrWPxYTg)
 
 >每一位感同身受的人，让我们把这一切记录下来，告诉我们的下一代，这一幕不要再重现了。
 >
->让我们受苦的不是Delta, 不是Omicron，是人！人！
+>让我们受苦的不是 Delta，不是 Omicron，是人！人！
 >
 > 千万不要忘记，这些人啊，就可以人把人搞得人不像人！
 >
@@ -51,8 +53,10 @@
 
 ## 微信公众号相关文章
 
-[微板报｜封就是封，何必造那么多新词呢](https://mp.weixin.qq.com/s/gmcDqYOxJfeXvASg4Q6jzA) [CDT备份链接](https://chinadigitaltimes.net/chinese/679789.html)
+[微板报｜封就是封，何必造那么多新词呢](https://mp.weixin.qq.com/s/gmcDqYOxJfeXvASg4Q6jzA) [CDT 备份链接](https://chinadigitaltimes.net/chinese/679789.html)
 
-[人格志｜上海孕妇低价买鸡蛋分邻居被逼写保证书：权力幻觉导致人性异变](https://mp.weixin.qq.com/s/tg53xSinCoyrGTlmMVg59w) [CDT备份链接](https://chinadigitaltimes.net/chinese/681092.html)
+[人格志｜上海孕妇低价买鸡蛋分邻居被逼写保证书：权力幻觉导致人性异变](https://mp.weixin.qq.com/s/tg53xSinCoyrGTlmMVg59w) [CDT 备份链接](https://chinadigitaltimes.net/chinese/681092.html)
 
-[山中木白｜今天，上海的魔幻又被刷新](https://mp.weixin.qq.com/s/e21T_ShuB2uktYjXvU-FtQ) [CDT备份链接](https://chinadigitaltimes.net/chinese/680952.html)
+[山中木白｜今天，上海的魔幻又被刷新](https://mp.weixin.qq.com/s/e21T_ShuB2uktYjXvU-FtQ) [CDT 备份链接](https://chinadigitaltimes.net/chinese/680952.html)
+
+[牛头耿｜封控期间老公的情绪变化](https://mp.weixin.qq.com/s/bAaTVyjztYuvK77LwsyHlA) [CDT 备份链接](https://chinadigitaltimes.net/chinese/682251.html)
