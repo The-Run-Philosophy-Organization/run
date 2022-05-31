@@ -11,15 +11,15 @@ jobs:
         uses: nosborn/github-action-markdown-cli@v3.0.1
         with:
           files: .
-          config_file: .markdownlintercheck.json
+          config_file: .markdownlint.json
 
   Links:
     runs-on: ubuntu-latest
     steps:
+      - uses: npm install -g npm
       - uses: actions/checkout@v3
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
-        uses: npm fund
         with:
           use-verbose-mode: 'yes'
-          config-file: '.markdownlinkscheck.json'
+          config-file: '.mlc_config.json'
           base-branch: 'main'
