@@ -16,7 +16,7 @@ jobs:
   Links:
     runs-on: ubuntu-latest
     steps:
-      - uses: npm install -g npm
+      - uses: npm upgrade
       - uses: actions/checkout@v3
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
