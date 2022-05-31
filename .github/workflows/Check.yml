@@ -15,8 +15,8 @@ jobs:
 
   Links:
     runs-on: ubuntu-latest
-    run: npm fund
     steps:
+      - run: npm fund
       - uses: actions/checkout@v3
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
