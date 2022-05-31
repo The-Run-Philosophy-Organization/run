@@ -16,9 +16,9 @@ jobs:
   Links:
     runs-on: ubuntu-latest
     steps:
-      - run: npm fund
       - uses: actions/checkout@v3
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        run: npm fund
         with:
           use-verbose-mode: 'yes'
           config-file: '.markdownlinkscheck.json'
