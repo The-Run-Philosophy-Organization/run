@@ -1,9 +1,9 @@
-name: Check
+name: Linter
 
 on: [ push, pull_request ]
 
 jobs:
-  Linker:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -13,11 +13,3 @@ jobs:
           files: .
           config_file: .markdownlint.json
 
-  Links:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: gaurav-nelson/github-action-markdown-link-check@v1
-        with:
-          config-file: '.mlc_config.json'
-          base-branch: 'main'
