@@ -70,3 +70,15 @@
 ![人民日报海外版评价大翻译运动](人民日报海外版评价大翻译运动.png)
 ![微博评价截图1.png](人民日报海外版评价大翻译运动_微博评价截图1.png)
 ![微博评价截图2.png](人民日报海外版评价大翻译运动_微博评价截图2.png)
+
+## 专家称入室消毒能有效阻止病毒传播
+
+![专家称入室消毒能有效阻止病毒传播](专家称入室消毒能有效阻止病毒传播.jpeg)
+![微博截图1](专家称入室消毒能有效阻止病毒传播_微博截图1.jpeg)
+![微博截图2](专家称入室消毒能有效阻止病毒传播_微博截图2.jpeg)
+
+## 布林肯和华姐说了什么
+
+[【网络民议】既看不到布林肯说了什么，也看不到华姐说了什么](https://chinadigitaltimes.net/chinese/682303.html)
+
+> [WayBackMachine 备份](https://web.archive.org/web/*/https://www.zhihu.com/question/534920986) [Archive 备份](https://archive.ph/https://www.zhihu.com/question/534920986)
