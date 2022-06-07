@@ -61,20 +61,11 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-5-28**）：
+近期新增（**Week of 2022-6-5**）：
 
-- [经济问题相关：我们的经济会变好吗](经济问题相关/我们的经济会变好吗.md)
-- [经济问题相关：国务院十万人大会](经济问题相关/国务院十万人大会.md)
-- [经济问题相关：国内汽车销量数据分析](经济问题相关/国内汽车销量数据分析.md)
-- [经济问题相关：中国经济的真实状况](经济问题相关/中国经济的真实状况.md)
-- [润学感悟：聊聊“润”](润学感悟/聊聊“润”.md)
-- [经济学人：习近平正如何摧毁中国经济](经济问题相关/经济学人：习近平正如何摧毁中国经济.md)
-- [纽约时报 “最后一代”和“润学”：中国年轻人的绝望与幻灭](对润学的报道/“最后一代”和“润学”：中国年轻人的绝望与幻灭.md)
-- [翻车现场：上海地铁恢复当日直播大翻车](内宣/网络民议/README.md)
-- [中国清零防疫政策](新冠疫情相关/中国清零防疫政策.md)
-- [哲学概念：中国的审查](哲学概念/中国的审查.md)
-- [新冠疫情相关：相关创作](新冠疫情相关/相关创作.md)
-- [新冠疫情相关：离开上海](新冠疫情相关/离开上海.md)
+- [衙学第二篇：各级别广义公务员人数、职级及待遇](https://www.youtube.com/watch?v=6WCgyaX3G1A)
+- [润学感悟：中国的性少数群体现状](润学感悟/中国的性少数群体现状.md)
+- [一个失去理智的司机有多危险](润学感悟/一个失去理智的司机有多危险.md)
 
 按此查看[过往更新](往期更新.md)
 
