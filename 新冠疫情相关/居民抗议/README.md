@@ -49,6 +49,14 @@
 >
 > 告诉下一代：我们要怜悯人，我们要爱我们的人！
 
+## 上海市民与封锁小区的警察抗争
+
+[【CDTV】“人民至上！权利至上！不可以践踏我们的人权！”——上海市民与封锁小区的警察抗争](https://chinadigitaltimes.net/chinese/682332.html)
+
+>[上海市民痛批警察：你们今天清算别人，总有一天你们也会被清算！](https://www.youtube.com/watch?v=WA7FlJQ7y4k)
+>
+>[5月28日，上海汤臣一品小区居民自行解封，与警察对峙](https://www.youtube.com/watch?v=3WRuJJkw4oI)
+
 ## 微信公众号相关文章
 
 [微板报｜封就是封，何必造那么多新词呢](https://mp.weixin.qq.com/s/gmcDqYOxJfeXvASg4Q6jzA) [CDT备份链接](https://chinadigitaltimes.net/chinese/679789.html)
@@ -56,3 +64,5 @@
 [人格志｜上海孕妇低价买鸡蛋分邻居被逼写保证书：权力幻觉导致人性异变](https://mp.weixin.qq.com/s/tg53xSinCoyrGTlmMVg59w) [CDT备份链接](https://chinadigitaltimes.net/chinese/681092.html)
 
 [山中木白｜今天，上海的魔幻又被刷新](https://mp.weixin.qq.com/s/e21T_ShuB2uktYjXvU-FtQ) [CDT备份链接](https://chinadigitaltimes.net/chinese/680952.html)
+
+[哥轮布碎碎报｜连清川：我们到底走出了什么？](https://mp.weixin.qq.com/s/g9ENuLmqqRwrtN7o1lF83w) [CDT备份链接](https://chinadigitaltimes.net/chinese/682452.html)
