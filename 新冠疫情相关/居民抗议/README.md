@@ -51,6 +51,8 @@
 
 ## 上海市民与封锁小区的警察抗争
 
+[![上海市民痛批警察](上海市民痛批警察.jpg)](https://chinadigitaltimes.net/chinese/682348.html)
+
 [【CDTV】“人民至上！权利至上！不可以践踏我们的人权！”——上海市民与封锁小区的警察抗争](https://chinadigitaltimes.net/chinese/682332.html)
 
 >[上海市民痛批警察：你们今天清算别人，总有一天你们也会被清算！](https://www.youtube.com/watch?v=WA7FlJQ7y4k)
