@@ -4,7 +4,7 @@
 [![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/issues)
 [![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run?style=flat-square)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
 
->Actions Status [![Links](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml)
+>[![Links](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml)
 [![Linter](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml)
 >
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
