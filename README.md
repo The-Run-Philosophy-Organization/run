@@ -4,7 +4,7 @@
 [![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/issues)
 [![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run?style=flat-square)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
 
->Actions Status [![Links](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml)
+>[![Links](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml)
 [![Linter](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml)
 >
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
@@ -63,7 +63,9 @@
 
 近期新增（**Week of 2022-6-5**）：
 
-- [衙学第二篇：各级别广义公务员人数、职级及待遇](https://www.youtube.com/watch?v=6WCgyaX3G1A)
+- [更新哲学概念之中国的审查，李佳琦等](哲学概念/中国的审查.md)
+- [《历史的先声》系列文章合集](历史的先声/)
+- [衙学第二篇：各级别广义公务员人数、职级及待遇（视频）](https://www.youtube.com/watch?v=6WCgyaX3G1A)
 - [润学感悟：中国的性少数群体现状](润学感悟/中国的性少数群体现状.md)
 - [一个失去理智的司机有多危险](润学感悟/一个失去理智的司机有多危险.md)
 
