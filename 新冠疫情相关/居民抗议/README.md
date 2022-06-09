@@ -55,6 +55,8 @@
 
 [【CDTV】“人民至上！权利至上！不可以践踏我们的人权！”——上海市民与封锁小区的警察抗争](https://chinadigitaltimes.net/chinese/682332.html)
 
+[6月6日，上海长乐路市民抗争完整视频](https://www.youtube.com/watch?v=NJVOBcqhAfE)
+
 >[上海市民痛批警察：你们今天清算别人，总有一天你们也会被清算！](https://www.youtube.com/watch?v=WA7FlJQ7y4k)
 >
 >[5月28日，上海汤臣一品小区居民自行解封，与警察对峙](https://www.youtube.com/watch?v=3WRuJJkw4oI)
