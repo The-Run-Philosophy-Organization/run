@@ -50,6 +50,20 @@
 
 [法国媒体报道链接](https://www.lemonde.fr/les-decodeurs/article/2022/02/01/comprendre-d-ou-vient-la-hausse-de-4-de-l-electricite-et-pourquoi-elle-aurait-du-etre-bien-plus-elevee_6111808_4355770.html) [Archive备份](https://archive.ph/oqlPL)
 
+## 凤凰新闻
+
+[美国CDC：猴痘可通过空气传播，类似新冠病毒](https://news.ifeng.com/c/8GfyZCOu84O) [Archive备份](https://archive.ph/FGtYp)
+
+[CDC原文链接](https://www.cdc.gov/poxvirus/monkeypox/transmission.html)
+
+## 观察者网
+
+[泽连斯基：俄已控制乌近1/5领土，乌方已损失3万多士兵](https://www.guancha.cn/internation/2022_06_03_642680.shtml)
+
+[Speech by the President of Ukraine in the Chamber of Deputies of Luxembourg](https://www.president.gov.ua/en/news/promova-prezidenta-ukrayini-v-palati-deputativ-lyuksemburgu-75533)
+
+>尽管目前各方统计数据不一，但是得出的结论普遍都是俄军伤亡人数大于乌克兰军队的伤亡人数
+
 ## 相关阅读
 
 - [中国数字时代 【立此存照】这是翻译目的论运用到极致的体现？](https://chinadigitaltimes.net/chinese/678518.html)

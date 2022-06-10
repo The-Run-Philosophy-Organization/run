@@ -8,3 +8,6 @@
 | 社交         | 贴吧             | Reddit Discord |
 | 参与活动     | 活动行           | MeetUp EventTribe |
 | 问答社区     | 知乎 豆瓣       | Quora                          |
+| 社交     | 微信       | whatsapp                          |
+| 沟通协作     | 钉钉       | slack                          |
+| 社交     | 新浪微博       | twitter                          |
