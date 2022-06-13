@@ -61,8 +61,9 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-6-5**）：
+近期新增（**Week of 2022-6-12**）：
 
+- [Jimmy: 英语学习资料分享](润学方法论/前期准备/英语学习/英语学习资料分享.md)
 - [网络民议:人民日报谈追梦这十年等](内宣/网络民议/README.md)
 - [中国的审查:网剧许可证](哲学概念/中国的审查.md)
 - [中国清零防疫政策相关分析](新冠疫情相关/中国清零防疫政策.md)
