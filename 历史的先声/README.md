@@ -12,7 +12,7 @@
 
 [出版业的危机！](出版业的危机！.md)
 
-[为笔的解放而斗争](为笔的解放而斗争——「九一」记者节所感.md)
+[为笔的解放而斗争](为笔的解放而斗争——“九一”记者节所感.md)
 
 [祝记者节](祝记者节.md)
 
@@ -38,6 +38,6 @@
 
 ## 另见
 
-[《新华日报》名言集锦](https://zh.wikiquote.org/wiki/%E6%96%B0%E5%8D%8E%E6%97%A5%E6%8A%A5)
+[《新华日报》名言集锦](https://zh.wikiquote.org/wiki/新华日报)
 
-[《解放日报》雅句摘录](https://zh.wikiquote.org/wiki/%E8%A7%A3%E6%94%BE%E6%97%A5%E6%8A%A5)
+[《解放日报》雅句摘录](https://zh.wikiquote.org/wiki/解放日报)
