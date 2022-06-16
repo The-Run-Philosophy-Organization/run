@@ -1,9 +1,19 @@
-name: Links
+name: Check
 
 on: [ push, pull_request ]
 
 jobs:
-  markdown-link-check:
+  Linker:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: markdownlint-cli
+        uses: nosborn/github-action-markdown-cli@v3.1.0
+        with:
+          files: .
+          config_file: .markdownlint.json
+
+  Links:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -12,3 +22,4 @@ jobs:
           use-verbose-mode: 'yes'
           config-file: '.markdownlinkscheck.json'
           base-branch: 'main'
+
