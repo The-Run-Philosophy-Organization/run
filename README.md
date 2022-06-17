@@ -92,10 +92,6 @@
 
 最后，茶余饭后，博君一笑，可以访问 [咱们赢麻了知名言论合集](张维为陈平曹丰泽等知名言论收集), [外交部赢化论精选](外交部发言精选)。
 
-## 鸣谢
-
-[![contributors](https://opencollective.com/run/contributors.svg?width=890)](https://github.com/The-Run-Philosophy-Organization/run/graphs/contributors)
-
 ## Star 历史
 
 [![Star History Chart](https://api.star-history.com/svg?repos=The-Run-Philosophy-Organization/run&type=Date)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)

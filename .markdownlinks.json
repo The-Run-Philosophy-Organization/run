@@ -1,0 +1,15 @@
+{
+    ignorePatterns: [
+        {
+            pattern: "^http(s)?://cdnjs.cloudflare.com"
+        }, 
+        {
+            pattern: "^http(s)?://www.cloudflare.com/"
+        }, 
+    ], 
+    timeout: "60s", 
+    retryOn429: true, 
+    retryCount: 5, 
+    aliveStatusCodes: [0, 403, 429, 200], 
+    fallbackRetryDelay: "60s"
+}
