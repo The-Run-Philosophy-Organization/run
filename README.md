@@ -3,9 +3,8 @@
 [![License](https://img.shields.io/github/license/The-Run-Philosophy-Organization/run?style=flat-square)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Issues](https://img.shields.io/github/issues/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/issues)
 [![Stars](https://img.shields.io/github/stars/The-Run-Philosophy-Organization/run?style=flat-square)](https://star-history.com/#The-Run-Philosophy-Organization/run&Date)
+[![Check](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml)
 
->[![Links](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/links.yml)
-[![Linter](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/linter.yml)
 >
 > 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
 > 本Repo的核心宗旨，即是在于解决并回答[为什么润](哲学概念/为何而润.md)，[润去哪里](润学方法论/各国选择/)，[怎么润](润学实例/)三大问题；并成为新中国人的核心宗教，核心信念。
@@ -91,10 +90,6 @@
 - 关于**怎么润**，请参考全球润友自身的经历 [润学实例](润学实例)：
 
 最后，茶余饭后，博君一笑，可以访问 [咱们赢麻了知名言论合集](张维为陈平曹丰泽等知名言论收集), [外交部赢化论精选](外交部发言精选)。
-
-## 鸣谢
-
-[![contributors](https://opencollective.com/run/contributors.svg?width=890)](https://github.com/The-Run-Philosophy-Organization/run/graphs/contributors)
 
 ## Star 历史
 
