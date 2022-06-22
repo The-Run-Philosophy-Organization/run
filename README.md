@@ -60,21 +60,10 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-6-12**）：
+近期新增（**Week of 2022-6-19**）：
 
 - [润学感悟：九年来倒行逆施盘点](润学感悟/九年来倒行逆施盘点/)
 - [程序员润日的方法](润学方法论/各国选择/亚洲和大洋洲/日本/程序员润日.md)
-- [Jimmy: 英语学习资料分享](润学方法论/前期准备/英语学习/英语学习资料分享.md)
-- [网络民议:人民日报谈追梦这十年等](内宣/网络民议/README.md)
-- [中国的审查:网剧许可证](哲学概念/中国的审查.md)
-- [中国清零防疫政策相关分析](新冠疫情相关/中国清零防疫政策.md)
-- [新冠疫情相关 居民抗议:上海长乐路市民抗争](新冠疫情相关/居民抗议/README.md)
-- [新冠疫情相关 中国特色抗疫童话](新冠疫情相关/相关创作.md)
-- [更新哲学概念之中国的审查，李佳琦等](哲学概念/中国的审查.md)
-- [《历史的先声》系列文章合集](历史的先声/)
-- [衙学第二篇：各级别广义公务员人数、职级及待遇（视频）](https://www.youtube.com/watch?v=6WCgyaX3G1A)
-- [润学感悟：中国的性少数群体现状](润学感悟/中国的性少数群体现状.md)
-- [一个失去理智的司机有多危险](润学感悟/一个失去理智的司机有多危险.md)
 
 按此查看[过往更新](往期更新.md)
 
