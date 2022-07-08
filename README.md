@@ -54,19 +54,20 @@
 - [冷锋吴京：如何去美国当程序员](润学实例/计算机/去美国当程序员V2.5.0.md)
 - [疫情期间护照获取的办法](润学方法论/前期准备/护照获取/README.md)
 - [10043润美方法](润学实例/10043学校如何润/10043润美方法.md)
+- [高中学历润日本](润学实例/计算机/高中学历润日本.md)
+- [润日指南](润学方法论/各国选择/亚洲和大洋洲/日本/润日指南.md)
+- [程序员润日的方法](润学方法论/各国选择/亚洲和大洋洲/日本/程序员润日.md)
 
 ## 更新日志
 
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-6-27**）：
+近期新增（**Week of 2022-7-3**）：
 
 润日方法论合集：
 
-- [高中学历润日本](润学实例/计算机/高中学历润日本.md)
-- [润日指南](润学方法论/各国选择/亚洲和大洋洲/日本/润日指南.md)
-- [程序员润日的方法](润学方法论/各国选择/亚洲和大洋洲/日本/程序员润日.md)
+- [纪念张爱玲诞辰100周年](润学感悟/纪念张爱玲诞辰100周年.md)
 
 按此查看[过往更新](往期更新.md)
 
