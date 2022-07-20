@@ -62,8 +62,9 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-7-3**）：
+近期新增（**Week of 2022-7-17**）：
 
+- [硕博生困于烂尾楼](经济问题相关/硕博生困于烂尾楼.md)
 - [空想管理学](哲学概念/空想管理学.md)
 - [张爱玲逃港记](润学感悟/张爱玲逃港记.md)
 - [纪念张爱玲诞辰100周年](润学感悟/纪念张爱玲诞辰100周年.md)
