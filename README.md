@@ -62,16 +62,13 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-7-17**）：
+近期新增（**Week of 2022-7-25**）：
 
 - [全国各省市烂尾楼停贷通知汇总](经济问题相关/全国各省市烂尾楼停贷通知汇总.md)
 - [郑州710事件](内宣/网络民议/郑州710事件.md)
 - [冷门美签简介](润学方法论/各国选择/美洲/美国/冷门美签简介.md)
 - [我们到底为抗疫花了多少钱](经济问题相关/我们到底为抗疫花了多少钱.md)
 - [硕博生困于烂尾楼](经济问题相关/硕博生困于烂尾楼.md)
-- [空想管理学](哲学概念/空想管理学.md)
-- [张爱玲逃港记](润学感悟/张爱玲逃港记.md)
-- [纪念张爱玲诞辰100周年](润学感悟/纪念张爱玲诞辰100周年.md)
 
 按此查看[过往更新](往期更新.md)
 
