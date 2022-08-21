@@ -13,7 +13,6 @@
 迁徙自由，是**基本人权**；
 当然了，讨论真理的言论自由也是**基本人权**之一。
 
-[![Discord](https://img.shields.io/badge/Discord-全球失败人士和失败学研讨会-%235865F2?style=flat-square&logo=discord)](https://discord.com/invite/2eCgMZZU)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/iwanttorun?style=flat-square)](https://www.reddit.com/r/iwanttorun/)
 [![twitter](https://img.shields.io/twitter/url?label=Share%20On%20Twitter&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FThe-Run-Philosophy-Organization%2Frun)
 
