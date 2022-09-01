@@ -1,6 +1,6 @@
-# 王探长系列之：EB1，NIW与O1申请实操指南
+# 润美国网meiguo.run系列：EB1，NIW与O1申请实操指南
 
-> 作者：北美王探长    [图文版原文(更新中)](https://www.meiguo.run/post/eb1a-eb2-niw-o1-visa-green-card-guide-bible)
+> 作者：润美国网meiguo.run    [图文版原文(更新中)](https://www.meiguo.run/post/eb1a-eb2-niw-o1-visa-green-card-guide-bible)
 
 ## 美国EB-1A杰出人才绿卡/EB-2 NIW国家利益豁免移民/O-1杰出人才工作签证实操圣经（2022）
 
