@@ -6,7 +6,7 @@
 [![Check](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml/badge.svg?branch=main)](https://github.com/The-Run-Philosophy-Organization/run/actions/workflows/Check.yml)
 
 >
-> 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例。
+> 润学全球官方指定GitHub，整理润学宗旨、纲领、理论和各类润之实例。
 > 本Repo的核心宗旨，即是在于解决并回答[为什么润](哲学概念/为何而润.md)，[润去哪里](润学方法论/各国选择/)，[怎么润](润学实例/)三大问题；并成为新中国人的核心宗教，核心信念。
 > 中国人的润将会持续至少100年，直到2122年为止。而本目录，也将会持续100年，直到山无棱、天地合，才敢与润绝。
 
@@ -20,9 +20,9 @@
 
 欢迎大家通过提交PR（Pull Request）的方式，补充自己的润的经历。可以匿名，但是格式最好包括学历，专业，出国时间，所花费用，所去国家，所用签证，所获身份等。感谢大家一起共筑全世界最大的中文润学文库。
 
-关于如何提交PR：在创建好自己的Github账号之后，选择本首页[右上方的Fork](https://github.com/The-Run-Philosophy-Organization/run/fork)，然后进入自己用户名下Fork好的首页，并在 Actions 页面启用 Workflows
+关于如何提交PR：在创建好自己的GitHub账号之后，选择本首页[右上方的Fork](https://github.com/The-Run-Philosophy-Organization/run/fork)，然后进入自己用户名下Fork好的首页，并在 Actions 页面启用 Workflows
 
-- Github Web 端：在合适的文件夹里选择新建文件，创建一个 `.md` 文件编写内容。
+- GitHub Web 端：在合适的文件夹里选择新建文件，创建一个 `.md` 文件编写内容。
   - 如果是上传文件，则请在对应目录点击 Add File 后点击 Upload Files ，等待文件上传完毕后点击 Commit。
   - 提交好之后点击左下角 Commit 并等待 Actions 检查，请在检查通过后在自己的首页上点击 Contribute 后点击下方的 Open Pull Request
 
