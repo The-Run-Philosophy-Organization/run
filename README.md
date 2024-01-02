@@ -60,7 +60,7 @@
 [![Commits](https://img.shields.io/github/commit-activity/m/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run/pulse)
 [![LastCommit](https://img.shields.io/github/last-commit/The-Run-Philosophy-Organization/run?style=flat-square)](https://github.com/The-Run-Philosophy-Organization/run)
 
-近期新增（**Week of 2022-8-19**）：
+近期新增（**Week of 2024-1-1**）：
 
 - [女性润学](https://github.com/FemRun/FemRun)
 - [润女精神港湾](https://github.com/FemRun/FeministCN)
